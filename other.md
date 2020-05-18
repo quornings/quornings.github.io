@@ -4,20 +4,29 @@ title: Other Resources
 permalink: /other/
 ---
 
-## Other Resources
+## Get Started
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Ada_%28programming_language%29)
 - [Get Ada Now](http://getadanow.com)
-- [Rosettacode](https://rosettacode.org/wiki/Category:Ada)
-- [Ada Information Clearinghouse](https://www.adaic.org)
-- [CAA](http://www.ada-auth.org)
 - [Learn Ada Now](https://learn.adacore.com)
+- [Rosettacode](https://rosettacode.org/wiki/Category:Ada)
 - [AdaCore Resources](https://www.adacore.com/resources)
+
+## SourceForge
+
 - [SourceForge](https://sourceforge.net/directory/language:ada/?q=Ada)
-- [ACM’s SIGAda](https://www.sigada.org) The Special Interest Group on Ada
+
+## Journals
+
 - [Ada Letters](https://www.sigada.org/ada_letters/index.html)
-- [Ada Europe](http://www.ada-europe.org)
 - [Ada User Journal Archive](http://www.ada-europe.org/auj/archive/)
+
+## Organisations
+
+- [Ada Information Clearinghouse](https://www.adaic.org)
+- [ACM’s SIGAda](https://www.sigada.org) The Special Interest Group on Ada
+- [Ada Europe](http://www.ada-europe.org)
+- [CAA](http://www.ada-auth.org)
 
 ## Older links
 
