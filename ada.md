@@ -26,7 +26,9 @@ title: Ada Projects
 
 ## Resources
 
+- [Get Started](/getstarted/)
 - [Chat](/chat/)
-- [FOSDEM](/fosdem/)
+- [Manuals](/manuals/)
 - [Ada Books](/books/)
+- [FOSDEM](/fosdem/)
 - [Other Resources](/other/)
