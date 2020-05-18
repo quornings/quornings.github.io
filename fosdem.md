@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Books
+title: FOSDEM
 permalink: /fosdem/
 ---
 
-## [FOSDEM](https://fosdem.org/)
-
-FOSDEM is a free event for software developers to meet, share ideas
-and collaborate.
+[FOSDEM](https://fosdem.org/) is a free event for software developers
+to meet, share ideas and collaborate.
 
 Every year, thousands of developers of free and open source software
 from all over the world gather at the event in Brussels. 
