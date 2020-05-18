@@ -39,7 +39,8 @@ by John W. McCormick, Peter C. Chapin
 by Nell B. Dale, John Ash McCormick
 - [Data Structures and Algorithm Analysis in Ada](https://books.google.com/books?id=ClUZAQAAIAAJ) by Mark Allen Weiss
 - [Concurrency in Ada](https://books.google.com/books?id=zHSA_kr8wucC) by Alan Burns and Andy Wellings
-- [Real-Time Systems and Programming Languages](https://books.google.com/books?id=0_LjXnAN6GEC)
+- [Real-Time Systems and Programming Languages](https://books.google.com/books?id=0_LjXnAN6GEC) 
+by Alan Burns, Andrew J. Wellings
 - [Ada 2012 Rationale](https://books.google.com/books?id=2de6BQAAQBAJ) by John Barnes
-- [Ada 95 Rationale]  (https://books.google.com/books?id=CKEcvT_MPAUC)
+- [Ada 95 Rationale](https://books.google.com/books?id=CKEcvT_MPAUC)
 
