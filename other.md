@@ -14,11 +14,6 @@ permalink: /other/
 - [Gems](https://www.adacore.com/gems)
 - [Learn](https://learn.adacore.com)
 
-## Journals
-
-- [Ada Letters](https://www.sigada.org/ada_letters/index.html)
-- [Ada User Journal Archive](http://www.ada-europe.org/auj/archive/)
-
 ## Organisations
 
 - [Ada Information Clearinghouse](https://www.adaic.org)
