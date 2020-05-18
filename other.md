@@ -18,6 +18,10 @@ permalink: /other/
 - [Learn Ada Now](https://learn.adacore.com)
 - [AdaCore Resources](https://www.adacore.com/resources)
 - [SourceForge](https://sourceforge.net/directory/language:ada/?q=Ada)
+- [ACM’s SIGAda](https://www.sigada.org) The Special Interest Group on Ada
+- [Ada Letters](https://www.sigada.org/ada_letters/index.html)
+- [Ada Europe](http://www.ada-europe.org)
+- [Ada User Journal Archive](http://www.ada-europe.org/auj/archive/)
 
 ## Older links
 
