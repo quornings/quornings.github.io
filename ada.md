@@ -18,8 +18,8 @@ If you are interested in contributing [click here](https://github.com/jquorning/
 
 ## Pinned GitHub Ada projects
 
-- [Alire](https://alire-project/github.com/alire)
-- [Alire Index](https://alire-project/github.com/alire-index)
+- [Alire](https://github.com/alire-project/alire)
+- [Alire Index](https://github.com/alire-project/alire-index)
 
 ## Pinned Ada Projects
 
