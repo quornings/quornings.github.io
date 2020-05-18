@@ -20,11 +20,26 @@ permalink: /books/
 - [Ada-95: A guide for C and C++ programmers](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf)
 - [Ada 95 Tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm)
 
-## Paper Books
+## Google Books
 
-- [Programming in Ada 2012](https://books.google.com/books?id=qiWjAwAAQBAJ)
-- [Ada as a Second Language](https://books.google.com/books?id=81IZAQAAIAAJ)
-- [Concurrent and Real-Time Programming in Ada](https://books.google.com/books?id=iilIj3JXNrAC)
-- [Building Parallel, Embedded, and Real-Time Applications with Ada](https://books.google.com/books?id=3NuhuYhNn_UC)
-- [Concurrency in Ada](https://books.google.com/books?id=zHSA_kr8wucC)
+- [Programming in Ada 2012](https://books.google.com/books?id=qiWjAwAAQBAJ) by John Barnes
+- [Programming in Ada 2005](https://books.google.com/books?id=Hlk_AQAAIAAJ) by John Barnes
+- [Programming in Ada 95](https://books.google.com/books?id=ZIBGAAAAYAAJ)
+- [Ada as a Second Language](https://books.google.com/books?id=81IZAQAAIAAJ) by Norman H. Cohen
+- [Ada for Software Engineers](https://books.google.com/books?id=lA39tn1xzdIC) by Mordechai Ben-Ari
+- [Programming and Problem Solving with ADA 95](https://books.google.com/books?id=X_VlpfGoQRgC) 
+by Nell B. Dale, Chip Weems, John W. McCormick
+- [Concurrent and Real-Time Programming in Ada](https://books.google.com/books?id=iilIj3JXNrAC) 
+by Alan Burns and Andy Wellings
+- [Building Parallel, Embedded, and Real-Time Applications with Ada](https://books.google.com/books?id=3NuhuYhNn_UC) 
+by John W. McCormick, Frank Singhoff, Jérôme Hugues
+- [Building High Integrity Applications with SPARK](https://books.google.com/books?id=Yh9TCgAAQBAJ) 
+by John W. McCormick, Peter C. Chapin
+- [ADA Plus Data Structures: An Object-oriented Approach](https://books.google.com/books?id=KHp2VKLwad4C) 
+by Nell B. Dale, John Ash McCormick
+- [Data Structures and Algorithm Analysis in Ada](https://books.google.com/books?id=ClUZAQAAIAAJ) by Mark Allen Weiss
+- [Concurrency in Ada](https://books.google.com/books?id=zHSA_kr8wucC) by Alan Burns and Andy Wellings
 - [Real-Time Systems and Programming Languages](https://books.google.com/books?id=0_LjXnAN6GEC)
+- [Ada 2012 Rationale](https://books.google.com/books?id=2de6BQAAQBAJ) by John Barnes
+- [Ada 95 Rationale]  (https://books.google.com/books?id=CKEcvT_MPAUC)
+
