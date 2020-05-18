@@ -1,0 +1,12 @@
+# Site settings
+title: Ada on GitHub
+email:
+description: Community Site
+baseurl:
+url:
+twitter_username:
+github_username:  jquorning
+
+# Build settings
+markdown: kramdown
+permalink: pretty
