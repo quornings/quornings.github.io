@@ -14,10 +14,10 @@ permalink: /blogs/
 
 ## Articles
 
-- [Ada 2012: The Joy of Contracts](https://www.electronicdesign.com/technologies/dev-tools/article/21796233/ada-2012-the-joy-of-contracts)Electronic Design
-- [Ada 2012 redux](https://www.embedded.com/ada-2012-redux/)Embedded
-- [Multicore Programming with Ada 2012](http://files.iccmedia.com/pdf/basdec12p10.pdf)Embedded Safety
-- [C++11 and Ada 2012 - renaissance of native languages?](https://www.electronicdesign.com/technologies/embedded-revolution/article/21796232/c11-and-ada-2012-renaissance-of-native-languages)Electronic Design
+- [Ada 2012: The Joy of Contracts](https://www.electronicdesign.com/technologies/dev-tools/article/21796233/ada-2012-the-joy-of-contracts) Electronic Design
+- [Ada 2012 redux](https://www.embedded.com/ada-2012-redux/) Embedded
+- [Multicore Programming with Ada 2012](http://files.iccmedia.com/pdf/basdec12p10.pdf) Embedded Safety
+- [C++11 and Ada 2012 - renaissance of native languages?](https://www.electronicdesign.com/technologies/embedded-revolution/article/21796232/c11-and-ada-2012-renaissance-of-native-languages) Electronic Design
  
 ## Advocacy
 

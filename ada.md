@@ -7,8 +7,8 @@ title: Ada Projects
 
 - [Alire](https://alire.ada.dev) Ada Library Respository. Package
   manager with the `alr` command line tool
-- [AWA](https://ada-awa.readthedocs.io/)Ada Web Application
-- [GNOGA](http://gnoga.com)GNU Omnificent GUI for Ada
+- [AWA](https://ada-awa.readthedocs.io/) Ada Web Application
+- [GNOGA](http://gnoga.com) GNU Omnificent GUI for Ada
 
 ## GitHub Projects
 
