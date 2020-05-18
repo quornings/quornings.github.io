@@ -20,6 +20,7 @@ If you are interested in contributing [click here](https://github.com/jquorning/
 
 - [Alire](https://github.com/alire-project/alire)
 - [Alire Index](https://github.com/alire-project/alire-index)
+- [awsome Ada](https://github.com/ohenley/awesome-ada)
 
 ## Pinned Ada Projects
 
@@ -27,6 +28,6 @@ If you are interested in contributing [click here](https://github.com/jquorning/
 
 ## Links
 
-- [awsome Ada](https://github.com/ohenley/awesome-ada)
 - [Ada Books](/books/)
+- [FOSDEM](/fosdem/)
 - [Other Resources](/other/)
