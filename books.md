@@ -44,3 +44,7 @@ by Alan Burns, Andrew J. Wellings
 - [Ada 2012 Rationale](https://books.google.com/books?id=2de6BQAAQBAJ) by John Barnes
 - [Ada 95 Rationale](https://books.google.com/books?id=CKEcvT_MPAUC) by John Barnes
 
+## Standard
+
+- [ISO/IEC 8652:2012](https://www.iso.org/standard/61507.html)
+- [ISO/IEC 8652:2012/COR 1:2016](https://www.iso.org/standard/69798.html)
