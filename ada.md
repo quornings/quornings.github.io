@@ -7,16 +7,18 @@ title: Ada Projects
 
 - [Alire](https://alire.ada.dev) Ada Library Respository. Package
   manager with the `alr` command line tool
+- [Ada Web Application](https://ada-awa.readthedocs.io/)
 
 ## Pinned Projects
 
 - [Alire](https://github.com/alire-project/alire)
 - [Alire Index](https://github.com/alire-project/alire-index)
-- [SDLAda](https://github.com/Lucretia/sdlada)
-- [GNAT/LLVM](https://github.com/AdaCore/gnat-llvm)
+- [SDLAda](https://github.com/Lucretia/sdlada) binding to SDL2
+- [Ada Web Application](https://github.com/stcarrez/ada-awa) Ada Web Application
 - [GPRbuid](https://github.com/AdaCore/gprbuild)
 - [libadalang](https://github.com/AdaCore/libadalang)
 - [ada_language_server](https://github.com/AdaCore/ada_language_server)
+- [GNAT/LLVM](https://github.com/AdaCore/gnat-llvm)
 
 ## GitHub Projects
 
