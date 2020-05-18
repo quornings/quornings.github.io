@@ -1,13 +1,19 @@
 ---
 layout: page
+title: Ada Projects
 ---
 
-This site is meant to serve as a directory for the content the
-community has created around Ada.
+## Pinned
 
-If you are interested in contributing [click here](https://github.com/jquorning/ada.github.io).
+- [Alire](https://alire.ada.dev)
 
-## GitHub Ada Projects
+## Pinned Projects
+
+- [Alire](https://github.com/alire-project/alire)
+- [Alire Index](https://github.com/alire-project/alire-index)
+- [awsome Ada](https://github.com/ohenley/awesome-ada)
+
+## GitHub Projects
 
 - [Recently updated](https://github.com/topics/ada?l=ada&o=desc&s=updated)
 - [Best Match](https://github.com/topics/ada?l=ada&o=desc&s=)
@@ -16,18 +22,9 @@ If you are interested in contributing [click here](https://github.com/jquorning/
 
 - [spark-ada](https://github.com/topics/spark-ada)
 
-## Pinned GitHub Ada projects
+## Resources
 
-- [Alire](https://github.com/alire-project/alire)
-- [Alire Index](https://github.com/alire-project/alire-index)
-- [awsome Ada](https://github.com/ohenley/awesome-ada)
-
-## Pinned Ada Projects
-
-- [Alire](https://alire.ada.dev)
-
-## Links
-
-- [Ada Books](/books/)
+- [Chat](/chat/)
 - [FOSDEM](/fosdem/)
+- [Ada Books](/books/)
 - [Other Resources](/other/)
