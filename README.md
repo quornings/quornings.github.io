@@ -1,3 +1,3 @@
 # ada.github.io
 
-Ada projects and resurcs on GitHub and elsewhere.
+Ada projects and resourcs on GitHub and elsewhere.
