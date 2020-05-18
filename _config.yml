@@ -3,7 +3,7 @@ title:       'Ada on GitHub'
 email:
 description: 'Community Site'
 url:         'https://jquorning.github.io'
-baseurl:     '/ada'
+baseurl:
 twitter_username:
 github_username:  jquorning
 
