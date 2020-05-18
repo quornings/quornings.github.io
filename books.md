@@ -25,6 +25,6 @@ permalink: /books/
 - [Programming in Ada 2012](https://books.google.com/books?id=qiWjAwAAQBAJ)
 - [Ada as a Second Language](https://books.google.com/books?id=81IZAQAAIAAJ)
 - [Concurrent and Real-Time Programming in Ada](https://books.google.com/books?id=iilIj3JXNrAC)
-- [Building Parallel, Embedded, and Real-Time Applications with Ada](https://books.google.com/books?id=3NuhuYhNn_UC&pg=PR4)
+- [Building Parallel, Embedded, and Real-Time Applications with Ada](https://books.google.com/books?id=3NuhuYhNn_UC)
 - [Concurrency in Ada](https://books.google.com/books?id=zHSA_kr8wucC)
 - [Real-Time Systems and Programming Languages](https://books.google.com/books?id=0_LjXnAN6GEC)
