@@ -8,9 +8,23 @@ permalink: /other/
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Ada_%28programming_language%29)
 - [Get Ada Now](http://getadanow.com)
-- [Learn Ada Now](https://learn.adacore.com)
+- [Learn Ada Now](http://www.learnadanow.com)
 - [Rosettacode](https://rosettacode.org/wiki/Category:Ada)
-- [AdaCore Resources](https://www.adacore.com/resources)
+
+## [AdaCore]((https://adacore.com)
+
+- [Resources](https://www.adacore.com/resources)
+- [Books](https://www.adacore.com/books)
+- [Documentation](https://www.adacore.com/documentation)
+- [Webinar](https://www.adacore.com/webinars)
+- [Tech Papers](https://www.adacore.com/papers)
+- [Gems](https://www.adacore.com/gems)
+- [Learn Ada Now](https://learn.adacore.com)
+
+## Manuals
+- [Ada 2012 Reference Manual](http://docs.adacore.com/live/wave/arm12/html/arm12/arm12.html)
+- [AWS: The Ada Web Server](http://docs.adacore.com/live/wave/aws/html/aws_ug/index.html)
+- [GNAT Reference Manual](http://docs.adacore.com/live/wave/gnat_rm/html/gnat_rm/gnat_rm.html)
 
 ## SourceForge
 
