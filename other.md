@@ -11,6 +11,7 @@ permalink: /other/
 - [reddit](https://www.reddit.com/r/ada/)
 - [Telegram](https://t.me/ada_lang)
 - [Ada Planet on Twitter](https://twitter.com/adaplanet1)
+- [Rosettacode](https://rosettacode.org/wiki/Category:Ada)
 - [comp.lang.ada](https://groups.google.com/forum/#!forum/comp.lang.ada) via Google Groups
 - [Ada Information Clearinghouse](https://www.adaic.org)
 - [CAA](http://www.ada-auth.org)
