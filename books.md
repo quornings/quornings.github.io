@@ -42,5 +42,5 @@ by Nell B. Dale, John Ash McCormick
 - [Real-Time Systems and Programming Languages](https://books.google.com/books?id=0_LjXnAN6GEC) 
 by Alan Burns, Andrew J. Wellings
 - [Ada 2012 Rationale](https://books.google.com/books?id=2de6BQAAQBAJ) by John Barnes
-- [Ada 95 Rationale](https://books.google.com/books?id=CKEcvT_MPAUC)
+- [Ada 95 Rationale](https://books.google.com/books?id=CKEcvT_MPAUC) by John Barnes
 
