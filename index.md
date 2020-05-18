@@ -9,7 +9,7 @@ community has created around Ada.
 
 If you are interested in contributing [click here](https://github.com/jquorning/ada.github.io).
 
-- [awsome Ada](https://github.com/ohenley/awsome-ada)
+- [awsome Ada](https://github.com/ohenley/awesome-ada)
 - [Alire](https://alire.ada.dev)
 - [Alire 2](https://github.com/alire-project/alire)
 
