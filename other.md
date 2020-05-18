@@ -14,10 +14,6 @@ permalink: /other/
 - [Gems](https://www.adacore.com/gems)
 - [Learn](https://learn.adacore.com)
 
-## SourceForge
-
-- [SourceForge](https://sourceforge.net/directory/language:ada/?q=Ada)
-
 ## Journals
 
 - [Ada Letters](https://www.sigada.org/ada_letters/index.html)
