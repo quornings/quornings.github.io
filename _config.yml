@@ -1,9 +1,9 @@
 # Site settings
-title: Ada on GitHub
+title:       'Ada on GitHub'
 email:
-description: Community Site
-baseurl:
-url:
+description: 'Community Site'
+url:         'https://jquorning.github.io'
+baseurl:     '/ada'
 twitter_username:
 github_username:  jquorning
 
