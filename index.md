@@ -9,9 +9,8 @@ community has created around Ada.
 
 If you are interested in contributing [click here](https://github.com/jquorning/ada.github.io).
 
-1. [awsome Ada](https://github.com/ohenley/awsome-ada)
-2. [Alire](https://alire.dev.io)
-3. [Alire 2](https://github.com/alire-project/alire)
+- [awsome Ada](https://github.com/ohenley/awesome-ada)
+- [Alire](https://alire.ada.dev)
+- [Alire 2](https://github.com/alire-project/alire)
 
 - [Other Resources](/other/)
-- [Curated Pages](/curated/)
