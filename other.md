@@ -10,6 +10,7 @@ permalink: /other/
 - [Get Ada Now](http://getadanow.com)
 - [Learn Ada Now](http://www.learnadanow.com)
 - [Rosettacode](https://rosettacode.org/wiki/Category:Ada)
+- [awsome Ada](https://github.com/ohenley/awesome-ada)
 
 ## [AdaCore]((https://adacore.com)
 
