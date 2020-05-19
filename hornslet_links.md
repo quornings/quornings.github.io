@@ -114,7 +114,7 @@ Her er en samling af links til ting in Hornslet.
 - [Autohallen Hornslet](https://www.autohallenhornslet.dk)
 - [Hornslet Undervognscenter](http://www.hornsletundervogn.dk)
 - [Hornslet Synshal](http://www.hornsletsynshal.dk)
-- [Hornslet Autolak](https://www.autobutler.dk/autovaerksted/8543-hornslet/hornslet-autolak-aps)
+- [Hornslet Autolak](http://www.hornsletautolak.dk/)
 - [Go Wash Hornslet](https://www.facebook.com/gowashhorslet/)
 
 ## Uddannelse
