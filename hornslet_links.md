@@ -134,6 +134,8 @@ Her er en samling af links til ting in Hornslet.
 - [Ungsyddjurs Hornslet](https://www.ungsyddjurs.dk/Klubber/Hornslet)
 - [UFL Rosenholm](https://www.ligevaerd.dk/ung/ufl-klubber/rosenholm/)
 - [Røde Kors Hornslet-Rosenholm](https://www.rodekors.dk/afdelinger/hornslet-rosenholm)
+- [Natteravnene i Hornslet](http://hornslet.natteravnene.dk)
+- [Rosenholm Billedskole](https://www.bornkunstogbilleder.dk/arkitektur/rosenholm-billedskole/)
 
 ## Forsyning
 - [Hornslet Fjernvarme](https://www.hornslet-fjernvarme.dk)
@@ -181,6 +183,8 @@ Her er en samling af links til ting in Hornslet.
 - [BolgPortal Lejeboliger i Hornslet](https://www.boligportal.dk/lejebolig/hornslet-8543.html)
 - [boligsurf Andelsboliger i Hornslet](https://boligsurf.dk/andelsboliger/find/hornslet)
 - [Akutbolig.dk Hornslet](https://www.akutbolig.dk/hornslet)
+- [Cylex](https://hornslet.cylex.dk)
+- [BoligPortal](https://www.boligportal.dk/find?placeIds=2620)
 
 ## Genbrug
 - [Kirkens Korshær Genbrug](https://kirkenskorshaer.dk/afdeling/kirkens-korshaer-genbrug-123)
