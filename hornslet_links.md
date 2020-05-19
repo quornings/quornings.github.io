@@ -193,9 +193,9 @@ Her er en samling af links til ting in Hornslet.
 ## Trafik
 <!-- - [GoMore]() -->
 - [Letbanen](https://www.midttrafik.dk/koreplaner/letbanen/standsningssteder/hornslet/)
-<!-- - [Midttrafik]()
-- [Køreplaner]()
-- [Kort]() -->
+<!-- - [Midttrafik]() -->
+<!-- - [Køreplaner]() -->
+<!-- - [Kort]() -->
 
 ## Erhverv
 - [VARO](https://www.varo.dk)
@@ -204,6 +204,16 @@ Her er en samling af links til ting in Hornslet.
 - [Sabro](http://sabro.as/DK.aspx)
 - [Apport](https://apportsystems.dk)
 - [Refurb](https://www.refurb.eu/da-dk)
+- [Avis Tryk](https://avis-tryk.dk)
+- [Gert Jakobsen Transport](http://gjtransport.dk)
+- [Danpor](https://www.danpor.dk)
+- [BB Kommunikation](https://bb-kommunikation.dk)
+- [Hornsletkiropraktoren](https://www.hornsletkiropraktoren.dk)
+- [Ragner Automation](https://ragner-as.dk)
+- [DGS Sletten](https://kort.degulesider.dk/?q=%22Sletten%208543%20Hornslet%22;)
+- [DGS Holmagervej](https://kort.degulesider.dk/?q=%22Holmagervej%208543%20Hornslet%22;)
+- [DGS Hornbjergvej](https://kort.degulesider.dk/?q=%22Hornbjergvej%208543%20Hornslet%22;)
+- [DGS Sortevej](https://kort.degulesider.dk/?q=%22Sortevej%208543%20Hornslet%22;)
 
 ## Wikipedia
 - [Hornslet](https://da.wikipedia.org/wiki/Hornslet)
