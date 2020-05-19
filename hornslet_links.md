@@ -31,25 +31,35 @@ Her er en samling af links til ting in Hornslet.
 - [abc Centeret](https://abc-centret.dk)
 - [Hornslet Apotek](https://www.apoteket.dk/apoteker/hornslet-apotek)
 - [Profil Optik](https://www.profiloptik.dk/optiker/profil-optik-hornslet/487)
+- [Hornslet Dyreklinik](https://hornsletdyreklinik.dk)
 - [Rosenholm Dyreklinik](http://dine-dyr.dk/rosenholm-dyreklinik/)
 - [ST cycler](https://www.stcykler.dk)
 - [Rosenholm Have & Park](https://www.have-park.dk/information/kontakt)
+- [Elite Service](https://eliteservice.dk)
+- [Rosenholm Bryghus](https://www.facebook.com/RosenholmBryghus/)
+- [Garageristeriet](https://garageristeriet.dk)
 
 ## Fritid
 - [Hornslet Cykel Motion](http://hornsletcykelmotion.dk)
-- [Hornslet Løbeklub](https://www.kompany.com/p/dk/33279450)
 - [Hornslet Løbeklub](https://hornslet.cylex.dk/firma/hornslet-løbeklub/12095759.html)
-- [Hornslet Motioncenter](https://hornslet.halbooking.dk/newlook/default.asp?pid=01)
-- [1. Hornslet Trop](https://1hornslettrop.dk)
-- [LOOP Fitness Hornslet](https://loopfitness.dk/centre/loop-fitness-hornslet/)
-- [Hornslet Bokseklub](https://hornsletbk.dk)
-- [Hornslet Frimærkeklub](https://djursfilateli.dk/hornsletfk/)
-- [DcH Kaløvig](http://www.dch-kalovig.dk)
-- [Rosenholm Bridgeklub](https://www.tuugo.dk/Companies/rosenholm-bridgeklub/0110003464910)
-- [Rosenholm Jagtforening](http://www.rosenholmjagtforening.dk)
-- [Rosenholm Rideklub](https://rork.dk)
-- [Rosenholm Tamburkorps](http://rosenholm-tamburkorps.dk)
 - [Rodskov Havkajak](https://www.rodskovhavkajak.dk)
+- [Hornslet Motioncenter](https://hornslet.halbooking.dk/newlook/default.asp?pid=01)
+- [LOOP Fitness Hornslet](https://loopfitness.dk/centre/loop-fitness-hornslet/)
+- [1. Hornslet Trop](https://1hornslettrop.dk)
+- [Rosenholm Tamburkorps](http://rosenholm-tamburkorps.dk)
+- [Bekkerdans Hornslet](https://danseskole.dk/hornslet/)
+- [Hornslet Bokseklub](https://hornsletbk.dk)
+- [DcH Kaløvig](http://www.dch-kalovig.dk)
+- [Rosenholm Jagtforening](http://www.rosenholmjagtforening.dk)
+- [Rosenholm Skytteforening](http://rosenholmskyd.dk)
+- [Rosenholm Flygtskydningscenter](https://www.jaegerforbundet.dk/vaben/skydebaner/find-skydebaner/rosenholm-flugtskydningscenter/)
+- [Rosenholm Rideklub](https://rork.dk)
+- [Hornslet Frimærkeklub](https://djursfilateli.dk/hornsletfk/)
+- [Rosenholm Bridgeklub](https://www.tuugo.dk/Companies/rosenholm-bridgeklub/0110003464910)
+- [Rosenholm Billard Klub](http://rosenholmbillardklub.dk)
+- [Dart Hornslet](https://www.facebook.com/darthornslet/)
+- [Hornslet Hallen](https://hornslethallerne.dk)
+- [Rosenholm Slot](https://rosenholm.dk)
 
 ## Kultur
 - [Kom-Bi](https://www.kombi.dk/)
@@ -63,17 +73,18 @@ Her er en samling af links til ting in Hornslet.
 - [Mørke.dk](https://mørke.dk)
 - [Rodskov-Eskerod Portalen](http://www.rodskoveskerod.mono.net)
 - [8541 Skødstrup/Løgten](https://8541.dk)
-- [Rønde]()
+<!-- - [Rønde]() -->
 - [Auning](https://auningby.dk/om-auning)
-- [Hadsten]()
-- [Aarhus]()
+<!-- - [Hadsten]() -->
+<!-- - [Aarhus]()  -->
+- [Rosenholm.net](https://www.rosenholm.net)
 
 ## Administration/Offentligt
 - [Hornslet Distriktsråd](https://www.hornsletby.dk)
 - [Syddjurs Kommune](https://www.syddjurs.dk)
 - [Region Midtjylland](https://www.rm.dk)
-- [Rosengården](https://www.rosengaarden-hornslet.dk)
 - [Syddjurs Bibliotek i Hornslet](https://syddjursbibliotek.dk/bibliotek/hornslet)
+- [Rosengården](https://www.rosengaarden-hornslet.dk)
 
 ## Handlende
 ### Indkøb
@@ -92,9 +103,10 @@ Her er en samling af links til ting in Hornslet.
 - [ild.pizza](https://ild.pizza)
 
 ### Bolig
-- [LOKAL mæglerne i Hornslet][https://www.lokal-maegler.dk]
+- [LOKAL mæglerne i Hornslet](https://www.lokal-maegler.dk)
+- [EDC AROS Hornslet](https://www.edc.dk/ejendomsmaegler/hornslet/)
+- [Estate](https://www.estate.dk/ejendomsmaeglere/oestjylland/estate-christina-ellegaard-hornslet)
 - [DjursBO](https://djursbo.dk)
-- [Reno Djurs Genbrugsplads](http://www.renodjurs.dk) 
 - [Hornset Genbrugsstation Åbningstider](http://www.renodjurs.dk/genbrugsstationer/åbningstider-og-adresser#hornslet)
 
 ## Auto
@@ -109,15 +121,25 @@ Her er en samling af links til ting in Hornslet.
 - [Hornslet Skole](https://hornslet-skole.aula.dk)
 - [VUC Hornslet](https://www.vucdjursland.dk/adresser/vuc-hornslet-rosenholmvej-51/)
 - [PGU Rosenholm](https://pgu.dk)
+- [Køreskolen Hornslet](http://www.koreskolenhornslet.dk)
+- [Rosenholm Køreskole](http://www.koreskolenhornslet.dk)
 
-## Kirke
+## Kirke, Ung, Senior
 - [Hornslet Kirke](https://www.hornsletkirke.dk)
 - [Hornslet Sogn](https://sogn.dk/hornslet/)
+- [Hornslet Seniorer](https://www.hornsletpensionistforening.dk/side2)
+- [Ældre Sagen Rosenholm](https://www.aeldresagen.dk/lokalafdelinger/rosenholm)
+- [Rosenholm Rotary](https://www.rotary.dk/clubs/rosenholm/)
+- [Kulturbroen Rosenholm](https://hornslet.cylex.dk/firma/kulturbroen-rosenholm/12095843.html)
+- [Ungsyddjurs Hornslet](https://www.ungsyddjurs.dk/Klubber/Hornslet)
+- [UFL Rosenholm](https://www.ligevaerd.dk/ung/ufl-klubber/rosenholm/)
+- [Røde Kors Hornslet-Rosenholm](https://www.rodekors.dk/afdelinger/hornslet-rosenholm)
 
 ## Forsyning
 - [Hornslet Fjernvarme](https://www.hornslet-fjernvarme.dk)
 - [Hornslet Vand](http://www.hornsletvand.dk)
-- [Rosenholmsnet](http://www.rosenholmsnet.dk)
+- [Reno Djurs](http://www.renodjurs.dk) 
+- [Rosenholms Net](http://www.rosenholmsnet.dk)
 
 ## Sundhed
 - [Tandlægerne Nissen og Jensen](https://www.horntand.dk/kontakt/)
@@ -125,16 +147,17 @@ Her er en samling af links til ting in Hornslet.
 - [Klinik for Fodterapi](https://www.hornsletfod.dk)
 - [Hornslet Fysioterapi](https://hornsletfys.dk)
 - [Hornslet Zoneterapi](https://www.hornslet-zoneterapi.dk)
-- [Sanne Søgaard](https://sannesoegaard.dk)
+- [Rosenholm Hørecenter](http://rosenholmhørecenter.dk)
 
 ### Frisør
 - [Hårlokken](https://haarlokken.dk)
 - [Saks og Bjørnkilde](https://hornslethandel.dk/medlem/saks-bjoernkilde/)
 - [Firsør Malou](https://www.frisormalou.dk/saloner-2/hornslet/)
+- [Sanne Søgaard](https://sannesoegaard.dk)
 
-## Håndværkere
+## Håndværk
+- [Hummels Gulvservice](https://hummels.dk)
 - [Ernst Meyer](http://www.vvsworld.dk/blikkenslagerfirma-ernst-meyer-hornslet-hornslet.htm)
-- [Elite Service](https://eliteservice.dk)
 - [Audes Aps](https://audesaps.dk)
 - [JSJ Kloak](https://jsjkloak.dk)
 - [Rosenholm EL](http://www.rosenholm-el.dk)
@@ -142,6 +165,9 @@ Her er en samling af links til ting in Hornslet.
 - [Skovtop](https://skovtop.dk)
 - [Rosenholm Rengøring](http://www.rosenholmren.dk/www/Home/index.php)
 - [Pudsminevinduer.dk](http://pudsminevinduer.dk)
+- [Hornslet Flytteforretning](https://www.hornslet-flytteforretning.dk/forside)
+- [Rosenholm Begravelse](https://rosenholmbegravelse.dk/kontakt/)
+- [Kronjyllands Begravelsesforreting Hornslet](https://kronjyllands.dk/bedemand-hornslet/)
 
 ## Historie
 - [Rosenholm Egnsarkiv](https://rosenholmegnsarkiv.dk/kontakt/)
@@ -158,18 +184,18 @@ Her er en samling af links til ting in Hornslet.
 
 ## Genbrug
 - [Kirkens Korshær Genbrug](https://kirkenskorshaer.dk/afdeling/kirkens-korshaer-genbrug-123)
-- [Lubners Genbrugsbutik]()
+<!-- - [Lubners Genbrugsbutik]() -->
 
 ## Vejret
 - [DMI](https://www.dmi.dk/lokation/show/DK/2619787/Hornslet/)
 - [yr](https://www.yr.no/sted/Danmark/Midtjylland/Hornslet/)
 
 ## Trafik
-- [GoMore]()
+<!-- - [GoMore]() -->
 - [Letbanen](https://www.midttrafik.dk/koreplaner/letbanen/standsningssteder/hornslet/)
-- [Midttrafik]()
+<!-- - [Midttrafik]()
 - [Køreplaner]()
-- [Kort]()
+- [Kort]() -->
 
 ## Erhverv
 - [VARO](https://www.varo.dk)
@@ -177,27 +203,7 @@ Her er en samling af links til ting in Hornslet.
 - [Mekoprint](https://mekoprint.com/da/)
 - [Sabro](http://sabro.as/DK.aspx)
 - [Apport](https://apportsystems.dk)
-
-- [Hornslet Hallen](https://hornslethallerne.dk)
-- [Rosenholm Slot](https://rosenholm.dk)
-- [Rosenholm Begravelse](https://rosenholmbegravelse.dk/kontakt/)
-- [Ældre Sagen Rosenholm](https://www.aeldresagen.dk/lokalafdelinger/rosenholm)
-- [Rosenholm Rotary](https://www.rotary.dk/clubs/rosenholm/)
-- [Røde Kors Hornslet-Rosenholm](https://www.rodekors.dk/afdelinger/hornslet-rosenholm)
-- [Kulturbroen Rosenholm](https://hornslet.cylex.dk/firma/kulturbroen-rosenholm/12095843.html)
-- [Rosenholm.net](https://www.rosenholm.net)
-- [Køreskolen Hornslet](http://www.koreskolenhornslet.dk)
-- [Rosenholm Køreskole](http://www.koreskolenhornslet.dk)
-- [Rosenholm Billard Klub](http://rosenholmbillardklub.dk)
-- [Dart Hornslet](https://www.facebook.com/darthornslet/)
-- [Bekkerdans Hornslet](https://danseskole.dk/hornslet/)
-- [Rosenholm Bryghus](https://www.facebook.com/RosenholmBryghus/)
-- [UFL Rosenholm](https://www.ligevaerd.dk/ung/ufl-klubber/rosenholm/)
-- [Garageristeriet](https://garageristeriet.dk)
-- [Hummels Gulvservice](https://hummels.dk)
-- [Rosenholm Skytteforening](http://rosenholmskyd.dk)
-- [Rosenholm Flygtskydningscenter](https://www.jaegerforbundet.dk/vaben/skydebaner/find-skydebaner/rosenholm-flugtskydningscenter/)
-- [Rosenholm Hørecenter](http://rosenholmhørecenter.dk)
+- [Refurb](https://www.refurb.eu/da-dk)
 
 ## Wikipedia
 - [Hornslet](https://da.wikipedia.org/wiki/Hornslet)
@@ -208,28 +214,11 @@ Her er en samling af links til ting in Hornslet.
 - [Rosenholm Kommune](https://da.wikipedia.org/wiki/Rosenholm_Kommune)
 
 ## Turistinfo
-### Oplev Syddjurs
-- [Rosenholm Skov, Ivers Kilde](https://oplevsyddjurs.dk/natur-og-friluftsliv/sevaerdigheder/rosenholm-skov-ivers-kilde)
-
-### Visit Denmark
-- [Rosenholm Slot](https://www.visitdenmark.com/denmark/explore/rosenholm-slot-gdk1078933)
-
-### Smalldanishhotels
-- [Rosenholm Slotspark](https://www.smalldanishhotels.dk/attraktioner/rosenholm-slotspark/)
-
-### Tripadvisor
-- [Seværdigheder i Hornslet](https://www.tripadvisor.dk/Attractions-g2552778-Activities-Hornslet_Southdjurs_Municipality_East_Jutland_Jutland.html)
+- [Rosenholm Skov, Ivers Kilde](https://oplevsyddjurs.dk/natur-og-friluftsliv/sevaerdigheder/rosenholm-skov-ivers-kilde) Oplev Syddjurs
+- [Rosenholm Slot](https://www.visitdenmark.com/denmark/explore/rosenholm-slot-gdk1078933) Visit Denmark
+- [Rosenholm Slotspark](https://www.smalldanishhotels.dk/attraktioner/rosenholm-slotspark/) Small Danish Hotels
+- [Seværdigheder i Hornslet](https://www.tripadvisor.dk/Attractions-g2552778-Activities-Hornslet_Southdjurs_Municipality_East_Jutland_Jutland.html) Tripadvisor
 
 ## Ikke placeret
-- [Hornslet Dyreklinik](https://hornsletdyreklinik.dk)
 - [Fælleshuset Oasen](https://oasen-hornslet.dk)
-
-- [Ungsyddjurs Hornslet](https://www.ungsyddjurs.dk/Klubber/Hornslet)
-- [Hornslet Seniorer](https://www.hornsletpensionistforening.dk/side2)
-
 - [Depotrum i Hornslet](https://billigdepot.dk/depotrum-i-hornslet/)
-- [Hornslet Flytteforretning](https://www.hornslet-flytteforretning.dk/forside)
-
-- [Kronjyllands Begravelsesforreting Hornslet](https://kronjyllands.dk/bedemand-hornslet/)
-
-
