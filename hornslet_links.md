@@ -1,5 +1,11 @@
+---
+layout: page
+title: Hornslet URL Samling
+permalink: /hornslet_links/
+---
 
-Her er en samling af links til ting in Hornslet.
+Her er en samling af links til ting in Hornslet. Jeg har nu selv boet
+den del år i Hornslet, men fandt en del nyt ved at lave denne side.
 
 ## Det sker
 - [På biblioteket](https://syddjursbibliotek.dk/arrangementer)
@@ -60,9 +66,16 @@ Her er en samling af links til ting in Hornslet.
 - [Dart Hornslet](https://www.facebook.com/darthornslet/)
 - [Hornslet Hallen](https://hornslethallerne.dk)
 - [Rosenholm Slot](https://rosenholm.dk)
+- [Løberute.dk](https://www.loeberute.dk/SharedTracks) Søg Hornslet
 
 ## Kultur
 - [Kom-Bi](https://www.kombi.dk/)
+- [Kultur Hotellet Rønde](http://www.kulturhotellet.dk/)
+- [Musik i Rønde](https://musikiroende.dk) MiR
+- [Syddjurs Teaterforening](https://www.syddjursteaterforening.dk)
+- [Syddjurs Egnsteater](https://www.facebook.com/syddjursegnsteater/)
+- [Rønde Amatørteater](https://www.facebook.com/roendeamatoerteater/)
+- [Kulturskolen Syddjurs](http://www.kuls.dk)
 
 ## Medie
 - [Adresseavisen Syddjurs](https://syddjurs.lokalavisen.dk)
@@ -70,13 +83,13 @@ Her er en samling af links til ting in Hornslet.
 
 ## Naboer
 - [Syddjursportalen.dk](http://syddjursportalen.dk)
-- [Mørke.dk](https://mørke.dk)
 - [Rodskov-Eskerod Portalen](http://www.rodskoveskerod.mono.net)
-- [8541 Skødstrup/Løgten](https://8541.dk)
-<!-- - [Rønde]() -->
+- [Krejbjerg](https://krejbjerg.dk)
+- [Mørke.dk](https://moerke.dk)
+- [Rønde](https://www.roendedistriktsraad.dk)
 - [Auning](https://auningby.dk/om-auning)
-<!-- - [Hadsten]() -->
-<!-- - [Aarhus]()  -->
+- [Thorsager](https://www.thorsagerportalen.dk)
+- [8541 Skødstrup/Løgten](https://8541.dk)
 - [Rosenholm.net](https://www.rosenholm.net)
 
 ## Administration/Offentligt
@@ -108,6 +121,8 @@ Her er en samling af links til ting in Hornslet.
 - [Estate](https://www.estate.dk/ejendomsmaeglere/oestjylland/estate-christina-ellegaard-hornslet)
 - [DjursBO](https://djursbo.dk)
 - [Hornset Genbrugsstation Åbningstider](http://www.renodjurs.dk/genbrugsstationer/åbningstider-og-adresser#hornslet)
+- [Fælleshuset Oasen](https://oasen-hornslet.dk)
+- [Depotrum i Hornslet](https://billigdepot.dk/depotrum-i-hornslet/)
 
 ## Auto
 - [Hornslet Autoværksted](https://www.hornsletauto.dk)
@@ -188,18 +203,14 @@ Her er en samling af links til ting in Hornslet.
 
 ## Genbrug
 - [Kirkens Korshær Genbrug](https://kirkenskorshaer.dk/afdeling/kirkens-korshaer-genbrug-123)
-<!-- - [Lubners Genbrugsbutik]() -->
+- [Luckners](https://www.luckners.dk) antik vintage reuse
 
 ## Vejret
 - [DMI](https://www.dmi.dk/lokation/show/DK/2619787/Hornslet/)
 - [yr](https://www.yr.no/sted/Danmark/Midtjylland/Hornslet/)
 
 ## Trafik
-<!-- - [GoMore]() -->
 - [Letbanen](https://www.midttrafik.dk/koreplaner/letbanen/standsningssteder/hornslet/)
-<!-- - [Midttrafik]() -->
-<!-- - [Køreplaner]() -->
-<!-- - [Kort]() -->
 
 ## Erhverv
 - [VARO](https://www.varo.dk)
@@ -232,7 +243,3 @@ Her er en samling af links til ting in Hornslet.
 - [Rosenholm Slot](https://www.visitdenmark.com/denmark/explore/rosenholm-slot-gdk1078933) Visit Denmark
 - [Rosenholm Slotspark](https://www.smalldanishhotels.dk/attraktioner/rosenholm-slotspark/) Small Danish Hotels
 - [Seværdigheder i Hornslet](https://www.tripadvisor.dk/Attractions-g2552778-Activities-Hornslet_Southdjurs_Municipality_East_Jutland_Jutland.html) Tripadvisor
-
-## Ikke placeret
-- [Fælleshuset Oasen](https://oasen-hornslet.dk)
-- [Depotrum i Hornslet](https://billigdepot.dk/depotrum-i-hornslet/)
