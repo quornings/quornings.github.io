@@ -11,8 +11,10 @@ permalink: /blogs/
 - [Project Polymath #2](http://blog.projectpolymath.org/ada-2012-tutorial_02/)
 - [OSS Blog](https://www.ossblog.org/master-ada-programming-free-books/)
 - [Korsnes Biocomputing](https://korsnesbiocomputing.no)
+- [SparForte](http://sparforte.com/)
 - [AdaCore](https://blog.adacore.com)
 - [JSA](http://www.jacob-sparre.dk)
+- [PAL](https://www.pegasoft.ca/pal.html) Public Ada Library
 
 ## Articles
 
