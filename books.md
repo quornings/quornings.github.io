@@ -19,6 +19,7 @@ permalink: /books/
 - [Ada 95: The Craft of Object-Oriented Programming PDF](http://babdoc.free.fr/mag_info/John%20English%20-%20Ada%2095%20The%20Craft%20of%20Object-Oriented%20Programming.pdf)
 - [Ada-95: A guide for C and C++ programmers](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf)
 - [Ada 95 Tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm)
+- [The Big Online Book of Linux Ada Programming](https://www.pegasoft.ca/boblap.html)
 
 ## Google Books
 
