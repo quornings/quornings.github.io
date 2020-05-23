@@ -40,4 +40,5 @@ title: Ada Projects
 - [Manuals](/manuals/)
 - [Books](/books/)
 - [FOSDEM](/fosdem/)
+- [Moral Support](/moral/)
 - [Other Resources](/other/)
