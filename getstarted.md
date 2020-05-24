@@ -11,5 +11,4 @@ permalink: /getstarted/
 - [Rosettacode](https://rosettacode.org/wiki/Category:Ada)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ada)
 - [comp.lang.ada](https://groups.google.com/forum/#!forum/comp.lang.ada) via Google Groups
-- [awsome Ada](https://github.com/ohenley/awesome-ada)
 - [AdaCore Gems](https://www.adacore.com/gems)
