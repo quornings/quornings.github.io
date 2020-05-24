@@ -8,6 +8,7 @@ permalink: /blogs/
 - [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
 - [flyx.org](https://flyx.org)
 - [AdaPower](http://www.adapower.com)
+- [Adalog](https://adalog.fr/en/adalog.html)
 - [Project Polymath #1](http://blog.projectpolymath.org/ada-2012-tutorial_01/)
 - [Project Polymath #2](http://blog.projectpolymath.org/ada-2012-tutorial_02/)
 - [OSS Blog](https://www.ossblog.org/master-ada-programming-free-books/)
