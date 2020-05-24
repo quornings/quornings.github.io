@@ -12,3 +12,4 @@ permalink: /getstarted/
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ada)
 - [comp.lang.ada](https://groups.google.com/forum/#!forum/comp.lang.ada) via Google Groups
 - [AdaCore Gems](https://www.adacore.com/gems)
+- [fr.comp.lang.ada](https://groups.google.com/forum/#!forum/fr.comp.lang.ada) via Google Groups
