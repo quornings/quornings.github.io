@@ -14,6 +14,7 @@ permalink: /blogs/
 - [Celebrate Ada](http://celebratingada.com)
 - [Korsnes Biocomputing](https://korsnesbiocomputing.no)
 - [SparForte](http://sparforte.com/)
+- [Stephe Leake](https://stephe-leake.org)
 - [Blady](https://blady.pagesperso-orange.fr)
 - [AdaCore](https://blog.adacore.com)
 - [JSA](http://www.jacob-sparre.dk)
