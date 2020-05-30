@@ -20,6 +20,7 @@ permalink: /blogs/
 - [SparForte](http://sparforte.com/)
 - [Stephe Leake](https://stephe-leake.org)
 - [Blady](https://blady.pagesperso-orange.fr)
+- [Ada DK Wiki](http://wiki.ada-dk.org)
 - [AdaCore](https://blog.adacore.com)
 - [JSA](http://www.jacob-sparre.dk)
 - [PAL](https://www.pegasoft.ca/pal.html) Public Ada Library
