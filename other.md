@@ -20,6 +20,17 @@ permalink: /other/
 - [ACM’s SIGAda](https://www.sigada.org) The Special Interest Group on Ada
 - [Ada Europe](http://www.ada-europe.org)
 - [ACAA](http://www.ada-auth.org)
+- [Ada Switzerland](https://www.ada-switzerland.ch)
+- [Ada-France](https://www.ada-france.org)
+- [Ada-Belgium](https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/)
+- [Ada-Deutchland](https://www.ada-deutschland.de)
+- [Ada-Spain](http://www.adaspain.org)
+- [Ada-Danmark](http://ada-dk.org)
+- [Ada-Russia](http://www.ada-ru.org)
+
+## Events
+- [25th Ada-Europe](https://www.istr.unican.es/ae2020/)
+- [Events](https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/events/index.html)
 
 ## Older links
 
