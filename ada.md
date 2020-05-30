@@ -30,6 +30,11 @@ title: Ada Projects
 - [Best Match](https://github.com/topics/ada?l=ada&o=desc&s=)
 - [spark-ada](https://github.com/topics/spark-ada)
 
+
+## GitLab
+
+- [Ada For Automation](https://gitlab.com/ada-for-automation/ada-for-automation)
+
 ## SourceForge Search
 
 - [SourceForge](https://sourceforge.net/directory/language:ada/?q=Ada)
