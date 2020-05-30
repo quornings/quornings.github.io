@@ -22,6 +22,7 @@ permalink: /blogs/
 - [Blady](https://blady.pagesperso-orange.fr)
 - [S(O)LOIST](https://slo-ist.fr)
 - [Ada DK Wiki](http://wiki.ada-dk.org)
+- [Baker](http://www.cs.fsu.edu/~baker/ada/)
 - [AdaCore](https://blog.adacore.com)
 - [JSA](http://www.jacob-sparre.dk)
 - [PAL](https://www.pegasoft.ca/pal.html) Public Ada Library
