@@ -40,6 +40,9 @@ Hvem, Hvor:
 a, c Sognets Præst
 b  i Kirken
 
+## Søren født og døbt
+[Kirkebog](https://www.danishfamilysearch.dk/sogn1040/churchbook/source137894/opslag15033071)
+Nærmest umulig at få noget ud af.
 
 ## Børn
 
