@@ -19,6 +19,6 @@ Vissing Sogn
 No:287, Familie:56(9).
 
 * Kristiane Sørensen 1871
-* [Søren Kristian Jensen](stamt/soeren-kristian-jensen/) 1874
+* [Søren Kristian Jensen](/stamt/soeren-kristian-jensen/) 1874
 * Laurette Marie Jensen 1876
 * Niels Kristian Jensen 1878
