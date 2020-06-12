@@ -38,23 +38,23 @@ b) i Kirken
 Ingerslev, Tiset, Hasselager 
 
 ### Børn
-Jens Kristian Jensen 1912-04-28
-Martha Karoline Jensen 1916-01-24
-Aage Jensen 1918-02-06
-Ejnar 1919-10-06
+* Jens Kristian Jensen 1912-04-28
+* Martha Karoline Jensen 1916-01-24
+* Aage Jensen 1918-02-06
+* Ejnar 1919-10-06
 * [Karl Erhardt Jensen](/stamt/karl-erhardt-jensen/) 1922-05-07
-Magda Birgitte Jensen 1924-05-26
+* Magda Birgitte Jensen 1924-05-26
 
 ## FT1930
 [Link har jeg glemt](/stamt/index/)
 Sted:40a, Familie:21
 
-Jensen Jens M 1886-06-28
-Jensen Ane Katrine 1890-10-29
-Jensen Martha 1916-01-24
-Jensen Aage 1918-02-06
-Jensen Ejner 1919-10-06
-Jensen Karl 1922-05-07
-Jensen Magda 1924-05-26
-Jensen Sigred 1927-02-10
-Jensen Svend 1930-08-05
+* Jensen Jens M 1886-06-28
+* Jensen Ane Katrine 1890-10-29
+* Jensen Martha 1916-01-24
+* Jensen Aage 1918-02-06
+* Jensen Ejner 1919-10-06
+* Jensen Karl 1922-05-07
+* Jensen Magda 1924-05-26
+* Jensen Sigred 1927-02-10
+* Jensen Svend 1930-08-05
