@@ -18,6 +18,8 @@ Dollerup
 Løvel
 
 ### Fødsel
+31. Oktober 1914. 1914-10-31.
+
 ### Dåb
 ### Konfirmation
 

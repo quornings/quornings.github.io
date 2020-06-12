@@ -3,7 +3,7 @@ layout: page
 title: Niels og Marie Quorning
 ---
 
-## Nieles og Marie Quorning
+## Niels og Marie Quorning
 
 Dollerup
 Løvel
