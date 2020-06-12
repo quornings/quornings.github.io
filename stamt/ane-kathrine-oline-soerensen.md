@@ -56,3 +56,5 @@ Født på Ingerslev Hede den 29 Oktober 1890 og døbt i Tiset Kirke 26 December 
 Konfirmeret af:
 Sognepræsten
 
+## Vielse
+[Jens Mortensen og Ane Kathrine Oline](/stamt/jens-mortensen-ane-kathrine-oline/)
