@@ -5,8 +5,8 @@ title: Søren Kristian Jensen
 
 ## Forældre
 
-* [Rasmus Kristian Jensen](/stamt/rasmus-kristian-jensen/) Husfader ejer af huse, arbejdsmand i agerbruget
-* [Edel Sørensdatter](/stamt/edel-soerensdatter/) Hans hustru
+* [Rasmus Kristian Jensen](/stamt/rasmus-kristian-jensen-edel-soerensdatter/) Husfader ejer af huse, arbejdsmand i agerbruget
+* [Edel Sørensdatter](/stamt/rasmus-kristian-jensen-edel-soerensdatter/) Hans hustru
 
 ## Ophold
 
