@@ -8,7 +8,7 @@ Gaarmand
 ##
 
 * [Jens Mortensen Jensen](/stamt/jens-mortensen-jensen/) 1886-06-28
-* [Ane Kathrine Oline Sørensen](/stamt/jens-mortensen-jensen/) 1890-10-29
+* [Ane Kathrine Oline Sørensen](/stamt/ane-kathrine-oline-soerensen/) 1890-10-29
 
 ## Ophold
 Ingerslev
