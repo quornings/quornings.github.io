@@ -16,7 +16,7 @@ Dollerup
 Løvel
 
 ## Fødsel og Dåb
-31. Oktober 1914. 1914-10-31.
+1914-10-31.
 [Kirkebog](https://www.danishfamilysearch.dk/sogn2049/churchbook/source19135/opslag3865656)
 Hvor født: Roum By, Roum Sogn, Rinds Herred.
 Barnets fulde Navn: Niels Quorning
