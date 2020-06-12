@@ -68,5 +68,5 @@ Sognepræsten P R Balelev. I Bjerregrav Kirke.
 ## Død
 
 ## Søskende
-[Inger Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386153)
-[Gurli Konfirmation][https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386156]
+* [Inger Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386153)
+* [Gurli Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386156)
