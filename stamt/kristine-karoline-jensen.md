@@ -5,8 +5,8 @@ title: Kristine Karoline Jensen
 
 ## Forældre
 
-* Søren Kristian Jensen 
-* Ane Nielsen 1879
+* [Søren Kristian Jensen](/stamt/soeren-kristian-ane-nielsen/) 
+* [Ane Nielsen](/stamt/ane-nielsen/) 1879
 
 ## Ophold
 
