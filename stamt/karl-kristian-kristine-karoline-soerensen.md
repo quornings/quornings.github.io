@@ -41,5 +41,6 @@ Beviseligheden er i Orden.
 
 ### Børn
 
-* Rigmor Mathilde Sørensen
- 
+* [Rigmor Mathilde Sørensen](/stamt/rigmor-mathilde-soerensen/)
+* [Inger Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386153)
+* [Gurli Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386156)

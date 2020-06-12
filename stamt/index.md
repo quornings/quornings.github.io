@@ -36,3 +36,4 @@ title: Index
 
 * [Karl Erhardt Jensen](/stamt/karl-erhardt-jensen/)
 * [Rigmor Mathilde Jensen](/stamt/rigmor-mathilde-soerensen/)
+* [Karl og Rigmor](/stamt/karl-rigmor-jensen/)

@@ -5,8 +5,8 @@ title: Rigmor Mathilde Sørensen
 
 ## Forældre
 
-* Karl Kristian Sørensen
-* Kristine Karoline f Jensen
+* [Karl Kristian Sørensen](/stamt/karl-kristian-kristine-karoline-soerensen/)
+* [Kristine Karoline f Jensen](/stamt/karl-kristian-kristine-karoline-soerensen/)
 
 ## Ophold
 
@@ -67,6 +67,3 @@ Sognepræsten P R Balelev. I Bjerregrav Kirke.
 
 ## Død
 
-## Søskende
-* [Inger Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386153)
-* [Gurli Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386156)
