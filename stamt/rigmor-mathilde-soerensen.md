@@ -40,6 +40,25 @@ Laust Kristian Sørensen Dronningborg
 
 
 ## Konfirmation
+[Kirkebog](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386144)
+No:4.
+
+Konfirmationene År og Data:
+1939-04-23
+
+Konfirmandens fulde Navn:
+Hjemme Rigmor Mathilde Sørensen
+
+Forældre:
+Arbejdsmand Karl Kristian Sørensen og
+Hustru Kristine Karoline Jensen, Gjandrup
+
+Konfirmandens fødested og dåbssted:
+Født Sønderbæk Sogn 1925-04-04
+Døbt: Sønderbæk Kirke 1925-05-03
+
+Konfirmation foretaget af:
+Sognepræsten P R Balelev. I Bjerregrav Kirke.
 
 
 ## Vielse
