@@ -18,7 +18,7 @@ Stabilgård Løvel
 
 ## Hustru
 
-Jahanne Marie Quorning født Hansen
+Johanne Marie Quorning født Hansen
 
 
 ## Børn
