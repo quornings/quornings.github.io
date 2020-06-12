@@ -32,3 +32,7 @@ title: Index
 * [Johanna Quorning](/stamt/christian-quorning/)
 
 
+## Karl og Rigmor Hårby, Skanderborg
+
+* [Karl Erhardt Jensen](/stamt/karl-erhardt-jensen/)
+* [Rigmor Mathilde Jensen](/stamt/rigmor-mathilde-soerensen/)
