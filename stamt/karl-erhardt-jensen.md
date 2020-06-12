@@ -6,7 +6,7 @@ title: Karl Erhardt Jensen
 ## Forældre
 
 * [Jens Mortensen Jensen](/stamt/jens-mortensen-jensen/) 1887
-* [Ane Kathrine Oline f Sørensen](/stamt/jens-mortensen-jensen/) 1891
+* [Ane Kathrine Oline f Sørensen](/stamt/ane-kathrine-oline-soerensen/) 1890-10-29
 
 ## Ophold
 
