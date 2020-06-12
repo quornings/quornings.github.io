@@ -5,8 +5,8 @@ title: Jens Jensen Quorning
 
 ## Forældre
 
-* [Jens Christian Jensen Quorning](/stamt/christian-quorning/)
-* [Johanna Marie Quorning f Hansen](/stamt/christian-quorning/)
+* [Jens Christian Jensen Quorning](/stamt/jens-christian-jensen-quorning/)
+* [Johanna Marie Quorning f Hansen](/stamt/jens-christian-jensen-quorning/)
 
 ## Ophold
 
