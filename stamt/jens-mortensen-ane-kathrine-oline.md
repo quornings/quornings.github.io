@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jens Mortensen og Ane Katrhine Oline
+title: Jens Mortensen og Ane Kathrine Oline Sørensen
 ---
 
 ## Vielse
@@ -46,6 +46,7 @@ Ejnar 1919-10-06
 Magda Birgitte Jensen 1924-05-26
 
 ## FT1930
+[Link har jeg glemt](/stamt/index/)
 Sted:40a, Familie:21
 
 Jensen Jens M 1886-06-28
