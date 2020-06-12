@@ -3,6 +3,9 @@ layout: page
 title: Karl Kristian og Kristine Karoline
 ---
 
+* [Karl Kristian Sørensen](/stamt/karl-kristian-soerensen/)
+* [Kristine Karoline Jensen](/stamt/kristine-karoline-jensen/)
+
 ## Vielse
 
 [Kirkebog](https://www.danishfamilysearch.dk/sogn2073/churchbook/source29858/opslag5991542)
@@ -39,8 +42,10 @@ Attest af 15/11 1924 fra Sognefoged
 ?Klarisen?, at
 Beviseligheden er i Orden.
 
-### Børn
+## Børn
 
 * [Rigmor Mathilde Sørensen](/stamt/rigmor-mathilde-soerensen/)
 * [Inger Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386153)
 * [Gurli Konfirmation](https://www.danishfamilysearch.dk/sogn2065/churchbook/source1984/opslag1386156)
+
+

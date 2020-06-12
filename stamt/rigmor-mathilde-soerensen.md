@@ -5,8 +5,9 @@ title: Rigmor Mathilde Sørensen
 
 ## Forældre
 
-* [Karl Kristian Sørensen](/stamt/karl-kristian-kristine-karoline-soerensen/)
-* [Kristine Karoline f Jensen](/stamt/karl-kristian-kristine-karoline-soerensen/)
+* [Karl Kristian Sørensen](/stamt/karl-kristian-soerensen/)
+* [Kristine Karoline f Jensen](/stamt/kristine-karoline-jensen/)
+* [Karl Kristian og Kristine Karoline](/stamt/karl-kristian-kristine-karoline-soerensen/)
 
 ## Ophold
 
