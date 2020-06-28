@@ -20,7 +20,7 @@ permalink: /books/
 - [Ada-95: A guide for C and C++ programmers](https://www.cs.uni.edu/~mccormic/4740/guide-c2ada.pdf)
 - [Ada 95 Tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm)
 - [The Big Online Book of Linux Ada Programming](https://www.pegasoft.ca/boblap.html)
-- [AUJ](https://intranet.ada-europe.org/auj/archive/)
+- [AUJ](http://www.ada-europe.org/auj/archive/)
 
 ## Google Books
 
