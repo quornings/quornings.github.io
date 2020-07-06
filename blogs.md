@@ -27,6 +27,10 @@ permalink: /blogs/
 - [JSA](http://www.jacob-sparre.dk)
 - [PAL](https://www.pegasoft.ca/pal.html) Public Ada Library
 
+## Distrib
+- [archlinux](https://wiki.archlinux.org/index.php/Ada)
+- [Debian](https://people.debian.org/~lbrenta/debian-ada-policy.html)
+
 ## Try online
 - [Online Ada Compiler](https://www.tutorialspoint.com/compile_ada_online.php)
 
