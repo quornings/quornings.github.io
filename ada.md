@@ -5,6 +5,7 @@ title: Ada Projects
 
 ## Pinned
 
+- [SweetAda](http://www.sweetada.org) Lightweight framework for embedded development
 - [Alire](https://alire.ada.dev) Ada Library Respository. Package
   manager with the `alr` command line tool
 - [AWA](https://ada-awa.readthedocs.io/) Ada Web Application
