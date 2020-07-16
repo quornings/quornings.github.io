@@ -4,6 +4,7 @@ title: Blogs etc.
 permalink: /blogs/
 ---
 
+- [Ada Programming](https://ada-programming.blogspot.com)
 - [Tero Koskinen](https://hg.sr.ht/~tkoskine)
 - [Ada Tips](https://ada.tips)
 - [Tero's Arduino Blog](http://arduino.ada-language.com)
