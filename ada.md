@@ -5,6 +5,7 @@ title: Ada Projects
 
 ## Pinned
 
+- [R1000](http://datamuseum.dk/wiki/Rational/R1000s400) Rational R1000s400
 - [SweetAda](http://www.sweetada.org) Lightweight framework for embedded development
 - [Alire](https://alire.ada.dev) Ada Library Respository. Package
   manager with the `alr` command line tool
