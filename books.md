@@ -21,6 +21,7 @@ permalink: /books/
 - [Ada 95 Tutorial](https://perso.telecom-paristech.fr/pautet/Ada95/a95list.htm)
 - [The Big Online Book of Linux Ada Programming](https://www.pegasoft.ca/boblap.html)
 - [AUJ](http://www.ada-europe.org/auj/archive/)
+- [Ada 95 Problem Solving and Program Design, 3rd edition.](https://www2.seas.gwu.edu/~mfeldman/cs1book/)
 
 ## Google Books
 
