@@ -9,8 +9,8 @@ title: Ada Projects
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ada)
 - [comp.lang.ada](https://groups.google.com/forum/#!forum/comp.lang.ada) via Google Groups
 - [fr.comp.lang.ada](https://groups.google.com/forum/#!forum/fr.comp.lang.ada) via Google Groups
-- [reddit](https://www.reddit.com/r/ada/)
-
+- [Reddit r/Ada](https://www.reddit.com/r/ada/)
+- [AdaCore Dev Logs](https://www.adacore.com/devlog)
 
 ## Pinned
 

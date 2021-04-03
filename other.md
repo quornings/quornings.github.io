@@ -13,6 +13,7 @@ permalink: /other/
 - [Tech Papers](https://www.adacore.com/papers)
 - [Gems](https://www.adacore.com/gems)
 - [Learn](https://learn.adacore.com)
+- [Dev Logs](https://www.adacore.com/devlog)
 
 ## Organisations
 
