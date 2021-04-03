@@ -9,6 +9,7 @@ permalink: /blogs/
 - [Tero Koskinen](https://hg.sr.ht/~tkoskine)
 - [Ada Tips](https://ada.tips)
 - [Tero's Arduino Blog](http://arduino.ada-language.com)
+- [Tero Stronglytyped](https://tero.stronglytyped.org/index.html)
 - [Hackbright Academy](https://hackbrightacademy.com/blog/ada-language-links/)
 - [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
 - [flyx.org](https://flyx.org)
