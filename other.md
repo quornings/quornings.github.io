@@ -29,7 +29,7 @@ permalink: /other/
 - [Ada-Russia](http://www.ada-ru.org)
 
 ## Events
-- [25th Ada-Europe](https://www.istr.unican.es/ae2020/)
+- [25th Ada-Europe](https://www.istr.unican.es/ae2021/)
 - [Events](https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/events/index.html)
 
 ## Older links
