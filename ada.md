@@ -18,6 +18,7 @@ title: Ada Projects
 
 - [awsome Ada](https://github.com/ohenley/awesome-ada)
 - [Awsomerepos.io - Ada/SPARK](https://awesomerepos.io/awesome/ohenley/awesome-ada)
+- [Project Awesome](https://project-awesome.org/ohenley/awesome-ada)
 - [SweetAda](http://www.sweetada.org) Lightweight framework for embedded development
 - [Alire](https://alire.ada.dev) Ada Library Respository. Package
   manager with the `alr` command line tool
