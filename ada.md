@@ -3,6 +3,15 @@ layout: page
 title: Ada Projects
 ---
 
+## Live
+
+- [Ada Planet](https://www.laeran.pl/adaplanet/i/)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/ada)
+- [comp.lang.ada](https://groups.google.com/forum/#!forum/comp.lang.ada) via Google Groups
+- [fr.comp.lang.ada](https://groups.google.com/forum/#!forum/fr.comp.lang.ada) via Google Groups
+- [reddit](https://www.reddit.com/r/ada/)
+
+
 ## Pinned
 
 - [R1000](http://datamuseum.dk/wiki/Rational/R1000s400) Rational R1000s400
