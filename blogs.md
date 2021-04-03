@@ -14,6 +14,7 @@ permalink: /blogs/
 - [flyx.org](https://flyx.org)
 - [AdaPower](http://www.adapower.com)
 - [Adalog](https://adalog.fr/en/adalog.html)
+- [Writing Linux Modules in Ada](http://www.nihamkin.com/2016/10/23/writing-linux-modules-in-ada-part-1/#writing-linux-modules-in-ada-part-1)
 - [Project Polymath #1](http://blog.projectpolymath.org/ada-2012-tutorial_01/)
 - [Project Polymath #2](http://blog.projectpolymath.org/ada-2012-tutorial_02/)
 - [OSS Blog](https://www.ossblog.org/master-ada-programming-free-books/)
