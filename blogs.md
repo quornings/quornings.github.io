@@ -44,6 +44,7 @@ permalink: /blogs/
 ## Articles
 
 - [Ada 2012: The Joy of Contracts](https://www.electronicdesign.com/technologies/dev-tools/article/21796233/ada-2012-the-joy-of-contracts) Electronic Design
+- [ARMing Ada](https://www.electronicdesign.com/technologies/embedded-revolution/article/21799681/arming-ada)
 - [Ada 2012 redux](https://www.embedded.com/ada-2012-redux/) Embedded
 - [The ideal programming language?](https://blogs.mentor.com/colinwalls/blog/2011/08/01/the-ideal-programming-language/)
 - [Multicore Programming with Ada 2012](http://files.iccmedia.com/pdf/basdec12p10.pdf) Embedded Safety
