@@ -14,14 +14,14 @@ title: Ada Projects
 
 ## Pinned
 
-- [R1000](http://datamuseum.dk/wiki/Rational/R1000s400) Rational R1000s400
+- [awsome Ada](https://github.com/ohenley/awesome-ada)
 - [SweetAda](http://www.sweetada.org) Lightweight framework for embedded development
 - [Alire](https://alire.ada.dev) Ada Library Respository. Package
   manager with the `alr` command line tool
 - [AWA](https://ada-awa.readthedocs.io/) Ada Web Application
-- [awsome Ada](https://github.com/ohenley/awesome-ada)
-- [GNOGA](http://gnoga.com) GNU Omnificent GUI for Ada
 - [HAC](https://hacadacompiler.sourceforge.io)
+- [GNOGA](http://gnoga.com) GNU Omnificent GUI for Ada
+- [R1000](http://datamuseum.dk/wiki/Rational/R1000s400) Rational R1000s400
 
 ## GitHub Projects
 
