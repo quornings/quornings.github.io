@@ -58,6 +58,7 @@ title: Ada Projects
 - [Blogs](/blogs/)
 - [Manuals](/manuals/)
 - [Books](/books/)
+- [Embedded](/embedded/)
 - [FOSDEM](/fosdem/)
 - [Moral Support](/moral/)
 - [Other Resources](/other/)
