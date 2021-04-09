@@ -23,7 +23,7 @@ title: Ada Projects
 - [Alire](https://alire.ada.dev) Ada Library Respository. Package
   manager with the `alr` command line tool
 - [AWA](https://ada-awa.readthedocs.io/) Ada Web Application
-- [HAC](https://hacadacompiler.sourceforge.io)
+- [HAC](https://hacadacompiler.sourceforge.io) HAC Ada Compiler - small Ada compiler fully in Ada
 - [GNOGA](http://gnoga.com) GNU Omnificent GUI for Ada
 - [R1000](http://datamuseum.dk/wiki/Rational/R1000s400) Rational R1000s400
 
