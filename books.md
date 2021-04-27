@@ -13,6 +13,7 @@ permalink: /books/
 
 - [Learn Ada Now](http://www.learnadanow.com)
 - [Progamming Book](https://en.wikibooks.org/wiki/Ada_Programming)
+- [Intro To Aaa](https://intro-to-ada.readthedocs.io/en/latest)
 - [Ada Distilled PDF](https://www.adaic.org/resources/add_content/docs/distilled/adadistilled.pdf)
 - [Ada Programming/Tutorials](https://en.wikibooks.org/wiki/Ada_Programming/Tutorials)
 - [Ada 95: The Craft of Object-Oriented Programming](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm)
