@@ -25,6 +25,7 @@ permalink: /blogs/
 - [Stephe Leake](https://stephe-leake.org)
 - [Blady](https://blady.pagesperso-orange.fr)
 - [S(O)LOIST](https://slo-ist.fr)
+- [Two Wrongs](https://two-wrongs.com/tags.html#ada)
 - [Ada DK Wiki](http://wiki.ada-dk.org)
 - [Baker](http://www.cs.fsu.edu/~baker/ada/)
 - [AdaCore](https://blog.adacore.com)
