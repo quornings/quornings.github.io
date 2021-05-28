@@ -4,10 +4,11 @@ title: Books
 permalink: /books/
 ---
 
-## YouTube
+## Video
 
 - [AdaCore Channel](https://www.youtube.com/user/AdaCore05/featured)
 - [AdaCore University](https://www.youtube.com/watch?v=f6wneklxryk&list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o)
+- [PeerTube](https://peertube.social/video-channels/ada_presentations/videos)
 
 ## Online Books
 
