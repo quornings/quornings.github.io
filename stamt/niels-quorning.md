@@ -18,6 +18,7 @@ Løvel
 ## Fødsel og Dåb
 1914-10-31.
 [Kirkebog](https://www.danishfamilysearch.dk/sogn2049/churchbook/source19135/opslag3865656)
+Viborg / Rinds / Roum  
 Hvor født: Roum By, Roum Sogn, Rinds Herred.
 Barnets fulde Navn: Niels Quorning
 Forældres fulde Navn:
@@ -37,6 +38,7 @@ af Løvel.
 
 ## Konfirmation
 [Kirkebog](https://www.danishfamilysearch.dk/sogn2049/churchbook/source19135/opslag3865797)
+Viborg / Rinds / Roum  
 Konfirmation Aar og Datum: 1928-10-07
 Konfirmandens fulde Navn: Niels Quorning. Hjemme.
 Forældres Navn, Stilling og Bopæl:

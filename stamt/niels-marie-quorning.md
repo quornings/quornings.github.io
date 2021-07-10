@@ -14,6 +14,7 @@ Løvel
 ## Vielse
 
 [Kirkebog](https://www.danishfamilysearch.dk/sogn2045/churchbook/source13169/opslag765397)
+Viborg / Rinds / Klejtrup
 
 Brudgom:
 Unkarl, Gaardejer af Dollerup Sogn, Viborg Amt: Niels Quorning
@@ -46,3 +47,10 @@ Journal Nr. 133
 * [Karl Johan Quorning](/stamt/karl-johan-quorning/)
 * [Hans Quorning](/stamt/hans-quorning/) 1949
 * [Birgitte Quorning](/stamt/birgitte-quorning/)
+
+[Kirkebog](https://www.danishfamilysearch.dk/ao/opslag1181435) No 1.
+1958 26 februar
+Løvel, Løvel Sogn; Nørlyng, Viborg Amt
+Gaardejer Niels Quorning født 1914-31. oktober og hustru Marie Jakobine Sørensen født 1916-23. juni af Løvel. Viede i Klejtrup kirke 1941-2. maj.
+Tilmeldt folkeregisteret 7/3 1958. Død 26/2 1958.  
+
