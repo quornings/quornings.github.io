@@ -5,10 +5,13 @@ title: Johanne Marie Hansdatter
 
 ## Forældre
 * Hans Madsen
-* Maren Rasmusdatter
+* [Maren Rasmusdatter](/stamt/maren-rasmusdatter/)
 
 ## Født
 1839
+
+[FT1801]
+ikke fundet
 
 [FT1834](https://www.danishfamilysearch.dk/census1834/sogn2002) familie 74
 Hesselholdt, en Gaard  
