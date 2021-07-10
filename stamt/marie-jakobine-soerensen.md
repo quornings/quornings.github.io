@@ -3,8 +3,6 @@ layout: page
 title: Marie Jakobine Sørensen
 ---
 
-## Marie Jakobine Sørensen
-
 ### Forældre
 
 * [Søren Kristian Sørensen](/stamt/soeren-kristian-soerensen/)
