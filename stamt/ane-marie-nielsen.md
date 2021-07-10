@@ -53,6 +53,8 @@ Gård og Smed Kristen Nielsen af Roum og Hustru Ane Sørensen
 født 28 Juni 1872 hjemmedøbt 8 Juli i Kirken 10 oktober  
 ug+ ug. 
 
+[FT1890](https://www.danishfamilysearch.dk/cid12528589)
+
 ## Vielse
 [Se her Jens Jensen](/stamt/jens-jensen-quorning/)
 
