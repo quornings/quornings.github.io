@@ -6,7 +6,7 @@ title: Jens Jensen Quorning
 ## Forældre
 
 * [Jens Christian Jensen Quorning](/stamt/jens-christian-jensen-quorning/)
-* [Johanna Marie Quorning f Hansen](/stamt/jens-christian-jensen-quorning/)
+* [Johanna Marie Hansdatter](/stamt/jens-christian-jensen-quorning/)
 
 ## Hustru
 * [Ane Marie Nielsen](/stamt/ane-marie-nielsen/)
@@ -71,6 +71,7 @@ Sognerådsattest af 1893-04-13
 Attest for ??? af 1893-04-12
 
 [FT1901](https://www.danishfamilysearch.dk/cid13066961)
+Viborg / Rinds / Roum  
 * Jens Jensen Kvorning - 35 - 1866 - Gift - Husfader gaardejer
 * Ane Marie Kvorning - 29 - 1872 - Gift - Husmoder
 * Jens Kristian Kvorning - 6
@@ -83,6 +84,7 @@ Attest for ??? af 1893-04-12
 * Ane Marie Kristensen - Kvninde - tjenestetyende
 
 [FT1906](https://www.danishfamilysearch.dk/cid13183926)
+Viborg / Rinds / Roum  
 * Jens Kvorning - 40 - 1866 - Husfader landbrug
 * Ane M Kvorning - 34 - 1872 - Husmoder
 * Jens Kr. Kvorning - 11
@@ -96,7 +98,8 @@ Attest for ??? af 1893-04-12
 * Ane K B? - Kvinde - 17 - tjenestetyende
 * Poul M Poulsen - Mand - 34 - Gift - Husfader ??? regfejl?
 
-[FT1911](https://www.danishfamilysearch.dk/cid18737220)
+[FT1911](https://www.danishfamilysearch.dk/cid18737220)  
+Viborg / Rinds / Roum  
 * Jens Jensen Kvorning - 44 - 1866 - Husfader Landmand
 * Ane Marie Kvorning - 38 - 1872 - Husmoder
 * Jens Kristian Kvorning - 15
@@ -110,6 +113,7 @@ Attest for ??? af 1893-04-12
 * Kristiane Kristensen - 21 - Tjenestetyende
 
 [FT1916](https://www.danishfamilysearch.dk/census1916/sogn2049/allpersons) familie 21
+Viborg / Rinds / Roum  
 * Jens Kvorning - 50 - 1866 - Gift - Roum - Husfader Landmand
 * Ane Marie Kvorning - 44 - 1872 - Gift - Roum - Husmoder
 * Kristian Kvorning - 21
@@ -125,6 +129,7 @@ Attest for ??? af 1893-04-12
 Ikke fundet..
 
 [FT1925](https://www.danishfamilysearch.dk/sogn2049/census1925/opslag6354136)
+Viborg / Rinds / Roum  
 2a3i fam 19
 Roum Thostrup (Toestrup?)  
 * Jens Jensen Kvorning - m - 18/5 1866 - Løvel - Husfader - gaardejer
@@ -136,6 +141,7 @@ Roum Thostrup (Toestrup?)
 * Niels Kvorning - m - 31/10 1914 - Roum - Barn
 
 [FT1930](https://www.danishfamilysearch.dk/sogn2049/census1930/opslag8908333)
+Viborg / Rinds / Roum  
 2a
 * Kvorning Jens Jensen - 18/5 1866 - Løvel - Husfader - Landmand - 10 levende 3 døde
 * Kvorning Ane Marie - 29/6 1872 - Roum - Husmoder
