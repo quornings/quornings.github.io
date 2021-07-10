@@ -48,8 +48,8 @@ Af: Sognepræst P A Jensen i Kirken
 * Søren Chr. Sørensen - Mand - 54 - 1886 - Gift - Fristrup - Husfader Gaardejer [link](https://www.danishfamilysearch.dk/cid19096839)  
 * Nielsine Sørensen - Kvinde - 42 - 1888 - Gift - Roum - Husmoder [link](https://www.danishfamilysearch.dk/cid19096840)  
 * Sørensen Mary - Kvinde - 18 - 1912 - Gift - Fristrup - Husassistent 
-* Særensen Hedin - Mand - 15 - 1914 - Ugift - Fristrup - Tyende
-* Særensen Marie - Kvinde - 14 - 1916 - Ugift - Fristrup - Husassistent [link](https://www.danishfamilysearch.dk/cid19096843)
+* Sørensen Hedin - Mand - 15 - 1914 - Ugift - Fristrup - Tyende
+* Sørensen Marie - Kvinde - 14 - 1916 - Ugift - Fristrup - Husassistent [link](https://www.danishfamilysearch.dk/cid19096843)
 * Sørensen Sigurd - 12 - 1918 - Barn - Fristrup
 * Sørensen Gerda - 6 - 1924 - Barn - Fristrup
 * Sørensen Jacob - 2 - 1928 - Barn - Fristrup
