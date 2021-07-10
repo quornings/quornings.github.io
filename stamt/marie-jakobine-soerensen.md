@@ -6,7 +6,7 @@ title: Marie Jakobine Sørensen
 ### Forældre
 
 * [Søren Kristian Sørensen](/stamt/soeren-kristian-soerensen/)
-* [Nielsine Marie Kirstine Andersen Skamris](/stamt/soeren-kristian-soerensen/)
+* [Nielsine Marie Kirstine Andersen Skamris](/stamt/nielsine-marie-kirstine-andersen/)
 
 ### Ophold
 
