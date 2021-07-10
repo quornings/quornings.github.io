@@ -64,10 +64,14 @@ Hesselholt en gaard
 ## Konfirmation
 Ikke fundet
 
-[FT1860](https://www.danishfamilysearch.dk/census1860/sogn2002)
-Johanne Marie Hansen - Kvinde - 21 år - f 1839 - Ugift - Mammen Sogn, Viborg Amt - Ugift - Vejrum Skoledistr. Hesselholt - Tjener forældrene  
-Barn af Hans Madsen født 1795 - 65 år - Gift - Husfader  
-Barn af Maren Rasmusdatter født 1799 - 61 år - Gift - Hans kone  
-Bror: Mads Hansen f 1832 - Ugift - Tjener forældrene 
-Niece?: Caroline Jacobsen - Ugift  
+[FT1860](https://www.danishfamilysearch.dk/census1860/sogn2002) familie 105  
+En Gaard
+* Hans Madsen - Mand - 65 år - 1795 - Vinkel Sogn, Viborg Amt - Gift - Husfader [link](https://www.danishfamilysearch.dk/cid15902992)
+* Maren Rasmusdatter - Kvinde - 61 år - 1799 - Vindum Sogn, Viborg Amt - Gift - Hans kone [link](https://www.danishfamilysearch.dk/cid15902993)
+* Mads Hansen - Mand - 28 år - 1832 - Ugift
+* Johanne Marie Hansen - Kvinde - 21 år - 1839 - Mammen Sogn, Viborg Amt - Ugift - Vejrum Skoledistr. Hesselholt - Tjener forældrene [link](https://www.danishfamilysearch.dk/cid15902995)  
+* Caroline Jacobsen - Kvinde - 5 år - 1855 - Ugift - Deres datterdatter 
 
+## Viet
+
+[Se her](/stamt/jens-christian-jensen-quorning/)
