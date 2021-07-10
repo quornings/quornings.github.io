@@ -9,7 +9,7 @@ Løvel
 ##
 
 * [Niels Quorning](/stamt/niels-quorning/) 1914
-* [Marie Quorning](/stamt/marie-quorning/) 1916
+* [Marie Quorning](/stamt/marie-jakobine-soerensen/) 1916
 
 ## Vielse
 
