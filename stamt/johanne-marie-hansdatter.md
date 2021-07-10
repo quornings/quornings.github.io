@@ -4,7 +4,7 @@ title: Johanne Marie Hansdatter
 ---
 
 ## Forældre
-* Hans Madsen
+* [Hans Madsen](/stamt/hans-madsen/)
 * [Maren Rasmusdatter](/stamt/maren-rasmusdatter/)
 
 ## Født
