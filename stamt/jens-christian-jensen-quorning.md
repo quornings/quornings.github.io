@@ -5,7 +5,7 @@ title: Jens Christian Jensen Quorning
 
 
 ## Forældre
-* Jens Qvorning(/stamt/jens-qvorning/)
+* [Jens Qvorning](/stamt/jens-qvorning/)
 * Ane Jensdatter
 
 ## Ophold
