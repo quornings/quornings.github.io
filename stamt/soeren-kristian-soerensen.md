@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Søren Kristian Sørense
+title: Søren Kristian Sørensen
 ---
 
 ## Forældre
