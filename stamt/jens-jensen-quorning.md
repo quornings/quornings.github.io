@@ -8,6 +8,9 @@ title: Jens Jensen Quorning
 * [Jens Christian Jensen Quorning](/stamt/jens-christian-jensen-quorning/)
 * [Johanna Marie Quorning f Hansen](/stamt/jens-christian-jensen-quorning/)
 
+## Hustru
+* [Ane Marie Nielsen](/stamt/ane-marie-nielsen/)
+
 ## Ophold
 
 Stabilgård, Løvel
