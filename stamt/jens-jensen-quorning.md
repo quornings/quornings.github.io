@@ -26,7 +26,8 @@ Ref: 268, 4
 [Kirkebog](https://www.danishfamilysearch.dk/sogn2018/churchbook/source134507/opslag14530052)
 Konfirmandens navn: Jens Jensen Kvorning, Løvel
 Konfirmandens fader: gaard J. Chr. G. Kvorning Løvel
-Dom angående Kundskab og Opførsel: g mg
+f i Løvel 18 Mai 66, døbt 3 Juni.
+Dom angående Kundskab og Opførsel: g mg.
 
 ## Vielse
 [Kirkebog](https://www.danishfamilysearch.dk/sogn2049/churchbook/source19134/opslag3865558)
