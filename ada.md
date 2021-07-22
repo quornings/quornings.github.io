@@ -13,6 +13,7 @@ title: Ada Projects
 - [Reddit r/SPARK](https://www.reddit.com/r/spark/)
 - [AdaCore Dev Logs](https://www.adacore.com/devlog)
 - [Facebook - Ada Passion](https://www.facebook.com/adapassion/)
+- [Debian Ada](https://lists.debian.org/debian-ada/)
 
 ## Pinned
 
