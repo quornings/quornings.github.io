@@ -34,6 +34,7 @@ title: Ada Projects
 - [SDLAda](https://github.com/Lucretia/sdlada) binding to SDL2
 - [AWS](https://github.com/AdaCore/aws) Ada Web Server
 - [AWA](https://github.com/stcarrez/ada-awa) Ada Web Application
+- [GHDL](https://github.com/ghdl/ghdl)
 - [GPRbuid](https://github.com/AdaCore/gprbuild)
 - [libadalang](https://github.com/AdaCore/libadalang)
 - [ada_language_server](https://github.com/AdaCore/ada_language_server)
