@@ -33,7 +33,7 @@ permalink: /other/
 - [25th Ada-Europe](https://www.istr.unican.es/ae2021/)
 - [Events](https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/events/index.html)
 
-## Older links
-
+## Historial
+- [Ada Language Competition](http://iment.com/maida/computer/redref/index.htm)
 - [Ada Home](https://www.adahome.com)
 - [Facebook - Ada Passion](https://www.facebook.com/adapassion/)
