@@ -3,6 +3,11 @@ layout: page
 title: Jens Qvorning
 ---
 
+## Aka
+Jens Jensen Korning
+Jens Jensen Quorning
+Jens Jensen
+
 ## Forældre
 * 
 * 
@@ -15,6 +20,28 @@ Løvel
 
 ## Hustru
 * Ane Jensdatter(1797)
+
+[FT1801](https://www.danishfamilysearch.dk/cid1577250)?
+* Niels Jensen - 25 - 1776 - Gift - Husbond Bonde og gårdbeboer
+* Karen Jensdatter - 52 - 1749 - Gift - Hans kone
+* Jens Jensen - Mand - 13 - 1788 - Ugift - Deres barn
+* Maren Jensdatter - Kvinde - 15 - Ugift 1786 - Deres barn
+Er Niels mon faderen??  
+
+## Konfirmeret
+
+## Viet
+[Kirkebog](https://www.danishfamilysearch.dk/ao/opslag14529721) No 6
+Jens Jensen af ?? ?? i Løvel. 34 Aar
+Pigen Anne Jens Datter af ?? udi Løvel. 22 Aar.
+23de November 1819
+udi Kirken
+pag 391 no 33 og 34
+
+## Børn
+* Gertrud Kirstine Jens Datter [dåb](https://www.danishfamilysearch.dk/ao/opslag14529655)[konf](https://www.danishfamilysearch.dk/ao/opslag14529705)  
+* Karen Jens Datter [dåb](https://www.danishfamilysearch.dk/ao/opslag14529658)
+* Jens [dåb](https://www.danishfamilysearch.dk/ao/opslag14529658)
 
 [FT1834](https://www.danishfamilysearch.dk/cid3178932)  
 Viborg / Nørlyng / Løvel
