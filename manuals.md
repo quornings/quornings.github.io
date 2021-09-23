@@ -19,3 +19,4 @@ permalink: /manuals/
 - [Ada Wiki Programmer's Guide](https://ada-wiki.readthedocs.io/en/latest/) [PDF](https://github.com/stcarrez/ada-wiki/blob/master/docs/wiki-book.pdf)
 - [Ada Utility Library Programmer's Guide](https://ada-util.readthedocs.io/en/latest/)
 - [Advanced Resource Embedder](https://resource-embedder.readthedocs.io/en/latest/)
+- [Ada Keystore](https://ada-keystore.readthedocs.io/en/latest/)
