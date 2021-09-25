@@ -6,6 +6,7 @@ permalink: /blogs/
 
 - [Jeremy Grosser](https://synack.me)
 - [Ada Programming](https://ada-programming.blogspot.com)
+- [Riccardo Bernardini](https://dev.to/pinotattari)
 - [Tero Koskinen](https://hg.sr.ht/~tkoskine)
 - [Ada Tips](https://ada.tips)
 - [Tero's Arduino Blog](http://arduino.ada-language.com)
