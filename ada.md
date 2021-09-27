@@ -4,7 +4,6 @@ title: Ada Projects
 ---
 
 ## Live
-
 - [Ada Planet](https://www.laeran.pl/adaplanet/i/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ada)
 - [comp.lang.ada](https://groups.google.com/forum/#!forum/comp.lang.ada) via Google Groups
@@ -15,7 +14,6 @@ title: Ada Projects
 - [Debian Ada](https://lists.debian.org/debian-ada/)
 
 ## Pinned
-
 - [awesome Ada](https://github.com/ohenley/awesome-ada)
 - [Awesomerepos.io - Ada/SPARK](https://awesomerepos.io/awesome/ohenley/awesome-ada)
 - [Project Awesome](https://project-awesome.org/ohenley/awesome-ada)
@@ -28,7 +26,6 @@ title: Ada Projects
 - [R1000](http://datamuseum.dk/wiki/Rational/R1000s400) Rational R1000s400
 
 ## GitHub Projects
-
 - [Alire](https://github.com/alire-project/alire)
 - [Alire Index](https://github.com/alire-project/alire-index)
 - [SDLAda](https://github.com/Lucretia/sdlada) binding to SDL2
@@ -41,22 +38,20 @@ title: Ada Projects
 - [GNAT/LLVM](https://github.com/AdaCore/gnat-llvm)
 
 ## GitHub Search
-
 - [Recently updated](https://github.com/topics/ada?l=ada&o=desc&s=updated)
 - [Best Match](https://github.com/topics/ada?l=ada&o=desc&s=)
 - [spark-ada](https://github.com/topics/spark-ada)
 
-
 ## GitLab
-
 - [Ada For Automation](https://gitlab.com/ada-for-automation/ada-for-automation)
 
 ## SourceForge Search
-
 - [SourceForge](https://sourceforge.net/directory/language:ada/?q=Ada)
 
-## Resources
+## Open Source Libraries
+- [Open Source Ada Projects](https://opensourcelibs.com/libs/ada)
 
+## Resources
 - [Get Started](/getstarted/)
 - [Chat](/chat/)
 - [Blogs](/blogs/)
