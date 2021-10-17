@@ -30,6 +30,7 @@ permalink: /other/
 - [Ada-Russia](http://www.ada-ru.org)
 
 ## Events
+- [26th Ada-Europe](https://www.ada-europe.org/conference2022/)
 - [25th Ada-Europe](https://www.istr.unican.es/ae2021/)
 - [Events](https://people.cs.kuleuven.be/~dirk.craeynest/ada-belgium/events/index.html)
 
