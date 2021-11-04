@@ -57,6 +57,7 @@ permalink: /blogs/
 - [C++11 and Ada 2012 - renaissance of native languages?](https://www.electronicdesign.com/technologies/embedded-revolution/article/21796232/c11-and-ada-2012-renaissance-of-native-languages) Electronic Design
 - [Getting the right programming language for the job](http://mil-embedded.com/guest-blogs/ada-watch-getting-the-right-programming-language-for-the-job/)
 - [The programming language that refuses to die](https://www.talentinternational.com.au/blog/2018/03/ada-the-programming-language-that-refuses-to-die-dot-dot-dot)
+- [Siemens Embedded](https://blogs.sw.siemens.com/embedded-software/2011/08/01/the-ideal-programming-language/)
 
 ## Advocacy
 
