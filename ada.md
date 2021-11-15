@@ -13,6 +13,7 @@ title: Ada Projects
 - [AdaCore Dev Logs](https://www.adacore.com/devlog)
 - Debian [Policy](https://people.debian.org/~lbrenta/debian-ada-policy.html) [Wiki](https://wiki.debian.org/Ada) [Mails](https://lists.debian.org/debian-ada/)
 - archLinux [Wiki](https://wiki.archlinux.org/title/Ada)
+- fedora [SIG Ada](https://fedoraproject.org/wiki/SIGs/Ada?rd=Ada#Ada_Special_Interest_Group)
 
 ## Pinned
 - [awesome Ada](https://github.com/ohenley/awesome-ada)
