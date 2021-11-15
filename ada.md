@@ -11,7 +11,7 @@ title: Ada Projects
 - [Reddit r/Ada](https://www.reddit.com/r/ada/)
 - [Reddit r/SPARK](https://www.reddit.com/r/spark/)
 - [AdaCore Dev Logs](https://www.adacore.com/devlog)
-- [Debian Ada](https://lists.debian.org/debian-ada/)
+- Debian [Policy](https://people.debian.org/~lbrenta/debian-ada-policy.html) [Wiki](https://wiki.debian.org/Ada) [Mails](https://lists.debian.org/debian-ada/)
 
 ## Pinned
 - [awesome Ada](https://github.com/ohenley/awesome-ada)
