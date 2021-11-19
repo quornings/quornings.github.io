@@ -21,3 +21,4 @@ permalink: /manuals/
 - [Advanced Resource Embedder](https://resource-embedder.readthedocs.io/en/latest/)
 - [Ada Keystore](https://ada-keystore.readthedocs.io/en/latest/)
 - [Matreshka Wiki](http://forge.ada-ru.org/matreshka/wiki/WikiStart)
+- [AdaBase](http://jrmarino.github.io/AdaBase/)
