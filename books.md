@@ -56,6 +56,9 @@ by Alan Burns, Andrew J. Wellings
 - [Ada Letters](https://www.sigada.org/ada_letters/index.html)
 - [Ada User Journal Archive](http://www.ada-europe.org/auj/archive/)
 
+## Papers
+- [Reusable components in Ada](https://www.academia.edu/2879773/An_approach_for_constructing_reusable_software_components_in_Ada)
+
 ## Standard
 
 - [ISO/IEC 8652:2012](https://www.iso.org/standard/61507.html)
