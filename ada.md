@@ -51,8 +51,9 @@ title: Ada Projects
 ## SourceForge Search
 - [SourceForge](https://sourceforge.net/directory/language:ada/?q=Ada)
 
-## Open Source Libraries
+## Source Libraries
 - [Open Source Ada Projects](https://opensourcelibs.com/libs/ada)
+- [The Walnut Creek CDROM](http://archive.adaic.com/ase/index.html)
 
 ## Resources
 - [Get Started](/getstarted/)
