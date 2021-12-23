@@ -54,6 +54,7 @@ title: Ada Projects
 
 ## Source Libraries
 - [Open Source Ada Projects](https://opensourcelibs.com/libs/ada)
+- [LibHunt](https://www.libhunt.com/l/ada)
 - [The Walnut Creek CDROM](http://archive.adaic.com/ase/index.html)
 
 ## Resources
