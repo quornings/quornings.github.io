@@ -48,7 +48,7 @@ permalink: /blogs/
 - [rfc1149](https://hub.docker.com/r/rfc1149/gnat/)
 
 ## Articles
-
+- [Learn Ada in 2021](https://opensource.com/article/21/10/learn-ada-2021)
 - [Ada 2012: The Joy of Contracts](https://www.electronicdesign.com/technologies/dev-tools/article/21796233/ada-2012-the-joy-of-contracts) Electronic Design
 - [ARMing Ada](https://www.electronicdesign.com/technologies/embedded-revolution/article/21799681/arming-ada)
 - [Ada 2012 redux](https://www.embedded.com/ada-2012-redux/) Embedded
