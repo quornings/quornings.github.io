@@ -48,6 +48,7 @@ title: Ada Projects
 - [spark-ada](https://github.com/topics/spark-ada)
 
 ## GitLab
+- [Porion](https://gitlab.com/stcarrez/porion)
 - [Ada For Automation](https://gitlab.com/ada-for-automation/ada-for-automation)
 
 ## SourceForge Search
