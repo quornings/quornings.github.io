@@ -59,6 +59,7 @@ Would like to: `brew install alire`
 
 - [Alire issue #625](https://github.com/alire-project/alire/issues/625)
 - [Alire issue #227](https://github.com/alire-project/alire/issues/227)
+- [Homebrew Adding Software](https://docs.brew.sh/Adding-Software-to-Homebrew#writing-the-cask)
 - [Homebrew Cask Cookbook](https://docs.brew.sh/Cask-Cookbook)
 - [Homebrew Formula Cookbook](https://docs.brew.sh/Formula-Cookbook)
 
