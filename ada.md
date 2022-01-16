@@ -18,12 +18,12 @@ title: Ada Projects
 - openSUSE [languages:Ada](https://build.opensuse.org/project/show/home:vibondare:devel:languages:Ada)
 
 ## Pinned
+- [Alire](/alire/) Ada Library Respository. Package manager with the
+`alr` command line tool
 - [awesome Ada](https://github.com/ohenley/awesome-ada)
 - [Awesomerepos.io - Ada/SPARK](https://awesomerepos.io/awesome/ohenley/awesome-ada)
 - [Project Awesome](https://project-awesome.org/ohenley/awesome-ada)
 - [SweetAda](http://www.sweetada.org) Lightweight framework for embedded development
-- [Alire](https://alire.ada.dev) Ada Library Respository. Package
-  manager with the `alr` command line tool
 - [AWA](https://ada-awa.readthedocs.io/) Ada Web Application
 - [HAC](https://hacadacompiler.sourceforge.io) HAC Ada Compiler - small Ada compiler fully in Ada
 - [GNOGA](http://gnoga.com) GNU Omnificent GUI for Ada
