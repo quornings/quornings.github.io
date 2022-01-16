@@ -13,13 +13,13 @@ title: Alire Page
 ### Generic search
 
 - [Generic Package Search](https://pkgs.org)
-- [DistroEatch](https://distrowatch.com)
+- [DistroWatch](https://distrowatch.com)
 
 ### Package managers
 
 - APT
-- Pacman
 - RPM
+- Pacman
 - YUM
 
 ### Distributions
@@ -57,7 +57,7 @@ title: Alire Page
 Would like to: `brew install alire`
 
 - [Alire issue #625](https://github.com/alire-project/alire/issues/625)
-- [Alire issue #227]https://github.com/alire-project/alire/issues/227)
+- [Alire issue #227](https://github.com/alire-project/alire/issues/227)
 
 ## Windows
 
