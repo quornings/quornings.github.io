@@ -21,6 +21,7 @@ title: Alire Page
 - RPM
 - Pacman
 - YUM
+- [AppImage](https://appimage.org)
 
 ### Distributions
 
@@ -58,6 +59,13 @@ Would like to: `brew install alire`
 
 - [Alire issue #625](https://github.com/alire-project/alire/issues/625)
 - [Alire issue #227](https://github.com/alire-project/alire/issues/227)
+- [Homebrew Cask Cookbook](https://docs.brew.sh/Cask-Cookbook)
+- [Homebrew Formula Cookbook](https://docs.brew.sh/Formula-Cookbook)
+
+Cask of formula? macOS and Homebrew do not have an Ada compiler. So a binary package is needed. Is `alr` available as binary for macOS?
+The alire GitHub has Alire release V1.1.1 available [here](https://github.com/alire-project/alire/releases).
+And [AppImage](https://github.com/alire-project/alire/releases) also.
+
 
 ## Windows
 
