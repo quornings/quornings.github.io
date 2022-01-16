@@ -56,14 +56,17 @@ title: Alire Page
 
 Would like to: `brew install alire`
 
+- [Alire issue #625](https://github.com/alire-project/alire/issues/625)
+- [Alire issue #227]https://github.com/alire-project/alire/issues/227)
+
 ## Windows
 
-| Distribution                                   | Status    | Link                    | Manager |
-|------------------------------------------------|-----------|-------------------------|---------|
-| [Chocolatey](https://community.chocolatey.org) | Missing   | [Link](https://community.chocolatey.org/packages) | ??? |
-| mysys2 |||
-| cygwin |||
-| scoop  |||
+| Distribution                                   | Status   | Link                                          | Manager |
+|------------------------------------------------|----------|-----------------------------------------------|---------|
+| [Chocolatey](https://community.chocolatey.org) | Missing  | [Link](https://community.chocolatey.org/packages) | ??? |
+| [Cygwin](https://cygwin.com/index.html)        | Missing  | [Link](https://cygwin.com/packages.html)          | ??? |
+| [Scoop](https://scoop.sh)                      | ???      | [Link](https://github.com/ScoopInstaller/Scoop)   | ??? |
+| [MSYS2](https://www.msys2.org)                 | Missing  | [Link](https://packages.msys2.org/queue)          | ??? |
 
-[Alire issue #625](https://github.com/alire-project/alire/issues/625)
-[Alire issue #276](https://github.com/alire-project/alire/issues/276)
+- [Alire issue #625](https://github.com/alire-project/alire/issues/625)
+- [Alire issue #276](https://github.com/alire-project/alire/issues/276)
