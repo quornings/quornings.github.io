@@ -62,9 +62,12 @@ Would like to: `brew install alire`
 - [Homebrew Adding Software](https://docs.brew.sh/Adding-Software-to-Homebrew#writing-the-cask)
 - [Homebrew Cask Cookbook](https://docs.brew.sh/Cask-Cookbook)
 - [Homebrew Formula Cookbook](https://docs.brew.sh/Formula-Cookbook)
+- [PR for Alire](https://github.com/Homebrew/homebrew-cask/pull/117527)
 
-Cask of formula? macOS and Homebrew do not have an Ada compiler. So a binary package is needed. Is `alr` available as binary for macOS?
-The alire GitHub has Alire release V1.1.1 available [here](https://github.com/alire-project/alire/releases).
+Cask of formula? macOS and Homebrew do not have an Ada compiler. So a
+binary package is needed. Is `alr` available as binary for macOS? 
+The alire GitHub has Alire release V1.1.1 available
+[here](https://github.com/alire-project/alire/releases). 
 And [AppImage](https://github.com/alire-project/alire/releases) also.
 
 
