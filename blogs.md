@@ -59,6 +59,12 @@ permalink: /blogs/
 - [The programming language that refuses to die](https://www.talentinternational.com.au/blog/2018/03/ada-the-programming-language-that-refuses-to-die-dot-dot-dot)
 - [Siemens Embedded](https://blogs.sw.siemens.com/embedded-software/2011/08/01/the-ideal-programming-language/)
 
+## Commercial Products
+
+- [D2000 SCADA](https://d2000.ipesoft.com)
+- [SattStore WMS](https://www.consafelogistics.com/products/sattstore-wms/)
+- [EuroControl](https://www.eurocontrol.int)
+
 ## Advocacy
 
 - [Ada 2012](http://www.ada2012.org)
