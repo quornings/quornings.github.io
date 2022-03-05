@@ -42,6 +42,7 @@ title: Ada Projects
 - [ada_language_server](https://github.com/AdaCore/ada_language_server)
 - [GNAT/LLVM](https://github.com/AdaCore/gnat-llvm)
 - [SDLAda](https://github.com/Lucretia/sdlada) binding to SDL2
+- [IRONSIDES](https://github.com/mcejp/IRONSIDES)
 
 ## GitHub Search
 - [Recently updated](https://github.com/topics/ada?l=ada&o=desc&s=updated)
