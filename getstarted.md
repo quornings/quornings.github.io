@@ -9,6 +9,7 @@ permalink: /getstarted/
 - [Learn Ada Now](http://www.learnadanow.com)
 - [Rosettacode](https://rosettacode.org/wiki/Category:Ada)
 - [AdaCore Gems](https://www.adacore.com/gems)
+- [A Random Walk Through Ada](http://cowlark.com/2014-04-27-ada/index.html)
 
 ## Ada on the web
 
