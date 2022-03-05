@@ -34,6 +34,12 @@ permalink: /blogs/
 - [JSA](http://www.jacob-sparre.dk)
 - [PAL](https://www.pegasoft.ca/pal.html) Public Ada Library
 
+## Papers
+
+- [IRONSIDES](https://ironsides.martincarlisle.com/globecom_2012.pdf)
+DNS With No Single-Packet Denial of Service or Remote Code Execution
+Vulnerabilities
+
 ## Distrib
 - [archlinux](https://wiki.archlinux.org/index.php/Ada)
 - [Debian](https://people.debian.org/~lbrenta/debian-ada-policy.html)
