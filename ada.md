@@ -3,6 +3,9 @@ layout: page
 title: Ada Projects
 ---
 
+## New Structure
+- [Visit](/ada/index/)
+
 ## Live
 - [Ada Planet](https://www.laeran.pl/adaplanet/i/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ada)
