@@ -8,7 +8,7 @@ title: Ada Resources
 
 ### Standard Library
 
-- [Ada](/man/ada/)
-- [Interfaces](/man/interfaces/)
-- [System](/man/system/)
-- [GNAT](/man/gnat/)
+- [Ada](/ada/man/ada/)
+- [Interfaces](/ada/man/interfaces/)
+- [System](/ada/man/system/)
+- [GNAT](/ada/man/gnat/)
