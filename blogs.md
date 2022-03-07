@@ -9,6 +9,7 @@ permalink: /blogs/
 - [Riccardo Bernardini](https://dev.to/pinotattari)
 - [Tero Koskinen](https://hg.sr.ht/~tkoskine)
 - [Ada Tips](https://ada.tips)
+- [Franck Behaghel](https://franckbehaghel.eu/programming/ada/ada-object/ada-object-programming.php)
 - [Tero's Arduino Blog](http://arduino.ada-language.com)
 - [Tero Stronglytyped](https://tero.stronglytyped.org/index.html)
 - [Hackbright Academy](https://hackbrightacademy.com/blog/ada-language-links/)
