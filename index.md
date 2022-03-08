@@ -3,4 +3,6 @@ layout: page
 title: Index
 ---
 
-Oops. Go to [Ada](/ada/).
+- [Ada](/ada/)
+- [Stamtræ](/stamt/)
+- [Honslet](/hornslet_links/)
