@@ -12,3 +12,13 @@ title: Interfaces Packages
 - [Interfaces.COBOL](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-B-4.html)
 
 - [Interfaces.Fortan](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-B-5.html)
+
+
+## GNAT
+
+- [Interfaces.C.Extensions (i-cexten.ads)]()
+- [Interfaces.C.Streams (i-cstrea.ads)]()
+- [Interfaces.Packed_Decimal (i-pacdec.ads)]()
+- [Interfaces.VxWorks (i-vxwork.ads)]()
+- [Interfaces.VxWorks.Int_Connection (i-vxinco.ads)]()
+- [Interfaces.VxWorks.IO (i-vxwoio.ads)]()
