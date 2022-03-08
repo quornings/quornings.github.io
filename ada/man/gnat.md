@@ -3,6 +3,10 @@ layout: page
 title: GNAT Packages
 ---
 
+- [Ada Book](https://en.wikibooks.org/wiki/Ada_Programming/Libraries/GNAT)
+- [AdaCore](https://docs.adacore.com/gnat_rm-docs/html/gnat_rm/gnat_rm/the_gnat_library.html)
+
+
 ### [GNAT.Bubble_Sort_A]()
 - [Example](http://www.adapower.com/index.php?Command=Class&ClassID=GNAT&CID=234)
 

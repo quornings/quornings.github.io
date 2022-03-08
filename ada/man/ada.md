@@ -111,6 +111,8 @@ title: Ada Packages
 
 ## GNAT Internal
 
+See [AdaCore](https://docs.adacore.com/gnat_rm-docs/html/gnat_rm/gnat_rm/the_gnat_library.html)
+
 - [Ada.Characters.Latin_9 (a-chlat9.ads)]()
 - [Ada.Characters.Wide_Latin_1 (a-cwila1.ads)]()
 - [Ada.Characters.Wide_Latin_9 (a-cwila1.ads)]()
