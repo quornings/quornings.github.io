@@ -16,6 +16,8 @@ title: Interfaces Packages
 
 ## GNAT
 
+See [AdaCore](https://docs.adacore.com/gnat_rm-docs/html/gnat_rm/gnat_rm/the_gnat_library.html)
+
 - [Interfaces.C.Extensions (i-cexten.ads)]()
 - [Interfaces.C.Streams (i-cstrea.ads)]()
 - [Interfaces.Packed_Decimal (i-pacdec.ads)]()
