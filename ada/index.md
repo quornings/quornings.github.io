@@ -20,6 +20,8 @@ title: Ada Resources
 # Standard Library
 
 - [Ada](/ada/man/ada/)
+- [Ada.Containers](/ada/man/ada-containers/)
+- [Ada.Numerics](/ada/man/ada-numerics/)
 - [Interfaces](/ada/man/interfaces/)
 - [System](/ada/man/system/)
 - [GNAT](/ada/man/gnat/)
