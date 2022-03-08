@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 'Get Started'
-permalink: /getstarted/
 ---
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Ada_%28programming_language%29)

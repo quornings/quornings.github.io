@@ -1,7 +1,6 @@
 ---
 layout: page
 title: FOSDEM
-permalink: /fosdem/
 ---
 
 [FOSDEM](https://fosdem.org/) is a free event for software developers

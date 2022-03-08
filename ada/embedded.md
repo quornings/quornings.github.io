@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Embedded
-permalink: /embedded/
 ---
 
 - [AVR-Ada](https://sourceforge.net/p/avr-ada/wiki/Home/)

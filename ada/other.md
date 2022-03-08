@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Other Resources
-permalink: /other/
 ---
 
 ## [AdaCore](https://adacore.com)

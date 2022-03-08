@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Books
-permalink: /books/
 ---
 
 ## Video

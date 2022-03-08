@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Blogs etc.
-permalink: /blogs/
 ---
 
 - [Jeremy Grosser](https://synack.me)

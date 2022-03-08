@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Chats
-permalink: /chat/
 ---
 
 - [Gitter](https://gitter.im/ada-lang)

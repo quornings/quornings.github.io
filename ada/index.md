@@ -3,7 +3,7 @@ layout: page
 title: Ada Resources
 ---
 
-- [Get Started](getstarted/)
+- [Get Started](/ada/getstarted/)
 - [Chat](/ada/chat/)
 - [Live](/ada/live)
 - [Featured](/ada/featured/)
