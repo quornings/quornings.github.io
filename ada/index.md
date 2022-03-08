@@ -25,7 +25,7 @@ title: Ada Resources
 - openSUSE [languages:Ada](https://build.opensuse.org/project/show/home:vibondare:devel:languages:Ada)
 
 ## Pinned
-- [Alire](alire/) Ada Library Respository. Package manager with the
+- [Alire](/ada/alire/) Ada Library Respository. Package manager with the
 `alr` command line tool
 - [awesome Ada](https://github.com/ohenley/awesome-ada)
 - [Awesomerepos.io - Ada/SPARK](https://awesomerepos.io/awesome/ohenley/awesome-ada)
@@ -70,11 +70,11 @@ title: Ada Resources
 
 ## Resources
 - [Get Started](getstarted/)
-- [Chat](chat/)
-- [Blogs](blogs/)
-- [Manuals](manuals/)
-- [Books](books/)
-- [Embedded](embedded/)
-- [FOSDEM](fosdem/)
-- [Moral Support](moral/)
-- [Other Resources](other/)
+- [Chat](/ada/chat/)
+- [Blogs](/ada/blogs/)
+- [Manuals](/ada/manuals/)
+- [Books](/ada/books/)
+- [Embedded](/ada/embedded/)
+- [FOSDEM](/ada/fosdem/)
+- [Moral Support](/ada/moral/)
+- [Other Resources](/ada/other/)
