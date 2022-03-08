@@ -57,3 +57,47 @@ See [AdaCore](https://docs.adacore.com/gnat_rm-docs/html/gnat_rm/gnat_rm/the_gna
 - [Ada.Containers.Functional_Sets (a-cofuse.ads)]()
 - [Ada.Containers.Functional_Maps (a-cofuma.ads)]()
 - [Ada.Containers.Bounded_Holders (a-coboho.ads)]()
+
+## GNAT CE 2020
+
+- [Ada.Containers.Bounded_Holders]()
+- [Ada.Containers.Bounded_Priority_Queues]()
+- [Ada.Containers.Bounded_Synchronized_Queues]()
+
+- [Ada.Containers.Formal_Doubly_Linked_Lists]()
+- [Ada.Containers.Formal_Hashed_Maps]()
+- [Ada.Containers.Formal_Hashed_Sets]()
+- [Ada.Containers.Formal_Indefinite_Vectors]()
+- [Ada.Containers.Formal_Ordered_Maps]()
+- [Ada.Containers.Formal_Ordered_Sets]()
+- [Ada.Containers.Formal_Vectors]()
+
+- [Ada.Containers.Functional_Base]()
+- [Ada.Containers.Functional_Maps]()
+- [Ada.Containers.Functional_Sets]()
+- [Ada.Containers.Functional_Vectors]()
+
+- [Ada.Containers.Hash_Tables]()
+- [Ada.Containers.Hash_Tables.Generic_Bounded_Keys]()
+- [Ada.Containers.Hash_Tables.Generic_Bounded_Operations]()
+- [Ada.Containers.Hash_Tables.Generic_Keys]()
+- [Ada.Containers.Hash_Tables.Generic_Operations]()
+
+- [Ada.Containers.Helpers]()
+
+- [Ada.Containers.Indefinite_Ordered_Multisets]()
+
+- [Ada.Containers.Prime_Numbers]()
+
+- [Ada.Containers.Red_Black_Trees]()
+- [Ada.Containers.Red_Black_Trees.Generic_Bounded_Keys]()
+- [Ada.Containers.Red_Black_Trees.Generic_Bounded_Operations]()
+- [Ada.Containers.Red_Black_Trees.Generic_Bounded_Set_Operations]()
+- [Ada.Containers.Red_Black_Trees.Generic_Keys]()
+- [Ada.Containers.Red_Black_Trees.Generic_Operations]()
+- [Ada.Containers.Red_Black_Trees.Generic_Set_Operations]()
+
+- [Ada.Containers.Restricted_Doubly_Linked_Lists]()
+- [Ada.Containers.Synchronized_Queue_Interfaces]()
+- [Ada.Containers.Unbounded_Priority_Queues]()
+- [Ada.Containers.Unbounded_Synchronized_Queues]()
