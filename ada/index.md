@@ -31,7 +31,7 @@ title: Ada Resources
 
 - [Porion](https://gitlab.com/stcarrez/porion)
 - [Ada For Automation](https://gitlab.com/ada-for-automation/ada-for-automation)
-
+- [Adare Net](https://gitlab.com/daresoft/network/adare_net)
 
 ## SourceForge Search
 
