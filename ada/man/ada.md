@@ -3,8 +3,8 @@ layout: page
 title: Ada Packages
 ---
 
-Not included here: [Ada.Containers](/ada/man/ada-containers/)
-Not included here: [Ada.Numerics](/ada/man/ada-numerics/)
+- [Ada.Containers](/ada/man/ada-containers/)
+- [Ada.Numerics](/ada/man/ada-numerics/)
 
 ## Input-Output
 
