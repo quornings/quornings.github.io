@@ -52,6 +52,13 @@ Not included here: [Ada.Numerics](/ada/man/ada-numerics/)
 - [Ada.Strings.Equal_Case_Insensitive](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-10.html)
 - [Ada.Strings.UTF_Encoding](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-11.html)
 
+## Time Handling
+
+- [Ada.Calendar](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-9-6.html#I4120)
+- [Ada.Calendar.Arithmetic](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-9-6-1.html#I4148)
+- [Ada.Calendar.Formatting](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-9-6-1.html#I4152)
+- [Ada.Calendar.Time_Zones](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-9-6-1.html#I4148)
+
 ## Other
 
 - [Ada.IO_Exceptions](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-13.html)
