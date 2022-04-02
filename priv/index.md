@@ -3,6 +3,8 @@ layout: page
 title: Startside
 ---
 
+- [Ada](/ada/)
+
 ### Søg
 
 - [WebCrawler](https://www.webcrawler.com)
