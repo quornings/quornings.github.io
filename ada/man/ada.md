@@ -74,6 +74,8 @@ title: Ada Packages
 - [Ada.Calendar.Arithmetic](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-9-6-1.html#I4148)
 - [Ada.Calendar.Formatting](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-9-6-1.html#I4152)
 - [Ada.Calendar.Time_Zones](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-9-6-1.html#I4148)
+- [Ada.Real_Time](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-D-8.html#I7866)
+- [Ada.Real_Time.Timing_Events](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-D-15.html#I7983)
 
 ## Other
 
