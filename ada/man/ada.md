@@ -52,6 +52,10 @@ title: Ada Packages
 - [Ada.Strings.Equal_Case_Insensitive](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-10.html)
 - [Ada.Strings.UTF_Encoding](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-11.html)
 
+- [Ada.Strings.Text_Buffers](http://www.ada-auth.org/standards/2xrm/html/RM-A-4-12.html)
+- [Ada.Strings.Text_Buffers.Unbounded](http://www.ada-auth.org/standards/2xrm/html/RM-A-4-12.html)
+- [Ada.Strings.Text_Buffers.Bounded](http://www.ada-auth.org/standards/2xrm/html/RM-A-4-12.html)
+
 ## Time Handling
 
 - [Ada.Calendar](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-9-6.html#I4120)
