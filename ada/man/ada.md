@@ -26,6 +26,7 @@ title: Ada Packages
 - [Ada.Text_IO.Wide_Text_Streams](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-12-3.html)
 - [Ada.Text_IO.Wide_Wide_Text_Streams](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-12-4.html)
 
+- [Ada.Streams](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-13-13-1.html)
 - [Ada.Streams.Stream_IO](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-12-1.html)
 
 ## Character Handling
