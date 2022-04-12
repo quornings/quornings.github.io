@@ -50,7 +50,12 @@ title: Ada Packages
 
 - [Ada.Strings.Hash](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-9.html)
 - [Ada.Strings.Equal_Case_Insensitive](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-10.html)
-- [Ada.Strings.UTF_Encoding](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-11.html)
+
+- [Ada.Strings.UTF_Encoding](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-11.html#I6011)
+- [Ada.Strings.UTF_Encoding.Conversions](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-11.html#I6022)
+- [Ada.Strings.UTF_Encoding.Strings](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-11.html#I6028)
+- [Ada.Strings.UTF_Encoding.Wide_Strings](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-11.html#I6035)
+- [Ada.Strings.UTF_Encoding.Wide_Wide_Strings](https://www.adaic.org/resources/add_content/standards/12rm/html/RM-A-4-11.html#I6042)
 
 - [Ada.Strings.Text_Buffers](http://www.ada-auth.org/standards/2xrm/html/RM-A-4-12.html#I6571)
 - [Ada.Strings.Text_Buffers.Unbounded](http://www.ada-auth.org/standards/2xrm/html/RM-A-4-12.html#I6585)
