@@ -56,6 +56,7 @@ Vulnerabilities
 ## Articles
 - [Learn Ada in 2021](https://opensource.com/article/21/10/learn-ada-2021)
 - [Ada 2012: The Joy of Contracts](https://www.electronicdesign.com/technologies/dev-tools/article/21796233/ada-2012-the-joy-of-contracts) Electronic Design
+- [Choosing a programming language for realtime systems](https://d2000.ipesoft.com/blog/what-language-is-the-d2000-written/)
 - [ARMing Ada](https://www.electronicdesign.com/technologies/embedded-revolution/article/21799681/arming-ada)
 - [Ada 2012 redux](https://www.embedded.com/ada-2012-redux/) Embedded
 - [The ideal programming language?](https://blogs.mentor.com/colinwalls/blog/2011/08/01/the-ideal-programming-language/)
