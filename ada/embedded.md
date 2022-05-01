@@ -8,3 +8,12 @@ title: Embedded
 - [Programming AVR with Ada](https://wiki.kucia.net/doku.php?id=projects:avrada)
 - [Ada Driver Library for ARM Cortex-R and Cortex-M](https://community.arm.com/developer/ip-products/system/b/embedded-blog/posts/ada-driver-library-for-arm-cortex-m-r---part-1-2)
 
+## Articles
+
+### Making robots with Ada
+By Patrick Rogers in Embedded.
+
+- [Part 1](https://www.embedded.com/making-robots-with-ada/)
+- [Part 2](https://www.embedded.com/making-robots-with-ada-part-2-driving-the-motors/) Driving the motors
+- [Part 3](https://www.embedded.com/making-robots-with-ada-part-3-working-with-analog-sensors/) Working with analog sensors
+
