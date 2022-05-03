@@ -10,6 +10,7 @@ title: Live
 - [Reddit r/Ada](https://www.reddit.com/r/ada/)
 - [Reddit r/SPARK](https://www.reddit.com/r/spark/)
 - [AdaCore Dev Logs](https://www.adacore.com/devlog)
+- [GNAT-OSX](https://hermes.gwu.edu/cgi-bin/wa?A0=GNAT-OSX) Mail list
 - Debian [Policy](https://people.debian.org/~lbrenta/debian-ada-policy.html) [Wiki](https://wiki.debian.org/Ada) [Mails](https://lists.debian.org/debian-ada/)
 - archlinux [Wiki](https://wiki.archlinux.org/title/Ada)
 - fedora [SIG Ada](https://fedoraproject.org/wiki/SIGs/Ada?rd=Ada#Ada_Special_Interest_Group)
