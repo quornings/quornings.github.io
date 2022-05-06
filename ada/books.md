@@ -62,3 +62,8 @@ by Alan Burns, Andrew J. Wellings
 
 - [ISO/IEC 8652:2012](https://www.iso.org/standard/61507.html)
 - [ISO/IEC 8652:2012/COR 1:2016](https://www.iso.org/standard/69798.html)
+
+## ARG - Ada Rapporteur Group
+
+- [ARG Minutes](http://www.ada-auth.org/arg-minutes.html)
+- [ARG Docs](https://sites.google.com/view/ada-rapporteur-group/home)
