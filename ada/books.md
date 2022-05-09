@@ -8,6 +8,7 @@ title: Books
 - [AdaCore Channel](https://www.youtube.com/user/AdaCore05/featured)
 - [AdaCore University](https://www.youtube.com/watch?v=f6wneklxryk&list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o)
 - [PeerTube](https://peertube.social/video-channels/ada_presentations/videos)
+- [Ada on iPad](https://www.youtube.com/watch?v=e_a4ctwSG6k)
 
 ## Online Books
 
