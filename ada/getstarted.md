@@ -10,6 +10,11 @@ title: 'Get Started'
 - [AdaCore Gems](https://www.adacore.com/gems)
 - [A Random Walk Through Ada](http://cowlark.com/2014-04-27-ada/index.html)
 
+## Cheatsheets
+
+- [Programming-Idioms](https://programming-idioms.org/cheatsheet/Ada)
+- [Hyperpolyglot](https://hyperpolyglot.org/pascal) Somewhat Ada 83, incomplete
+
 ## Ada on the web
 
 - [Ada search engine](https://www.adaic.org/ada-resources/ada-on-the-web/)
