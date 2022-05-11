@@ -52,6 +52,9 @@ Vulnerabilities
 - [Introduction to Ada & SPARK](https://www.cse.msu.edu/~cse814/Lectures/09_spark_intro.pdf) Michigan State University
 - [Language Introduction](https://comp.anu.edu.au/courses/comp2310/lectures/language/) Australian National University
 
+## Tutorials
+- [Lovalace Tutorial](https://dwheeler.com/lovelace/)
+
 ## Docker Images
 - [tomekw](https://hub.docker.com/r/tomekw/ada-gnat/)[GitHub](https://github.com/tomekw/ada-gnat)
 - [reznik](https://hub.docker.com/r/reznik/gnat/)[BitBucket](https://bitbucket.org/reznikmm/gnat/src/gpl.2019.slim/)
