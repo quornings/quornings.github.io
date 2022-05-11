@@ -37,3 +37,7 @@ title: Other Resources
 - [Ada Language Competition](http://iment.com/maida/computer/redref/index.htm)
 - [Ada Home](https://www.adahome.com)
 - [Facebook - Ada Passion](https://www.facebook.com/adapassion/)
+
+## Hall of Fame
+
+- [John McCormick](http://www.cs.uni.edu/~mccormic/)
