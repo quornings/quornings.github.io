@@ -23,7 +23,7 @@ title: Startside
 ### Ada
 
 - [Ada Planet](https://www.laeran.pl/adaplanet/i/)
-- [comp.lang.add](https://groups.google.com/g/comp.lang.ada)
+- [comp.lang.ada](https://groups.google.com/g/comp.lang.ada)
 - [Gitter](https://gitter.im/ada-lang/)
 - [Ada Resources](https://jquorning.github.io/ada/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/ada)
