@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Test of GitHub Jekyll blog"
+category: testing
+tags: ["github", "jekyll", "blog"]
 ---
 
 # Welcome
