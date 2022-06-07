@@ -10,6 +10,15 @@ title: Startside
 - [WebCrawler](https://www.webcrawler.com)
 - [Google](https://www.google.com/)
 
+### Blog posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ### Kirke
 
 - [CityKirken](https://www.ckirken.dk/da/)
