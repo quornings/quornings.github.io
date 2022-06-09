@@ -8,6 +8,12 @@ title: Alire Page
 - [Crates](https://alire.ada.dev/crates.html)
 - [GitHub](https://github.com/alire-project)
 
+### Articles
+- [Alire: a Library Respository
+  Manager](https://core.ac.uk/download/pdf/289998603.pdf)Alire: a
+  Library Respository Manager for the Open Source Ada
+  Ecosystem. Alejandro R. Mosteo in Ada User Journal 
+
 ## Linux
 
 ### Generic search
