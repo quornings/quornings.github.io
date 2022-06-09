@@ -18,3 +18,4 @@ title: 'Get Started'
 ## Ada on the web
 
 - [Ada search engine](https://www.adaic.org/ada-resources/ada-on-the-web/)
+- [Ada Code Search](https://search.synack.me)
