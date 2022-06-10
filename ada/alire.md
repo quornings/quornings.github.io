@@ -5,14 +5,18 @@ title: Alire Page
 
 ## Site
 - [Official](https://alire.ada.dev)
-- [Crates](https://alire.ada.dev/crates.html)
+- [Crates](https://alire.ada.dev/crate)
 - [GitHub](https://github.com/alire-project)
+- [CI](https://alire-crates-ci.mosteo.com)
 
 ### Articles
 - [Alire: a Library Respository
   Manager](https://core.ac.uk/download/pdf/289998603.pdf)Alire: a
   Library Respository Manager for the Open Source Ada
   Ecosystem. Alejandro R. Mosteo in Ada User Journal 
+- [Alire Intro](https://github.com/mosteo/2022-AEiC-alire-tutorial/blob/main/slides-alire-intro-aeic2022.pdf)
+- [Alire Exercises](https://github.com/mosteo/2022-AEiC-alire-tutorial/blob/main/alire-exercises.slides.pdf)
+
 
 ## Linux
 
