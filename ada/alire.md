@@ -9,6 +9,9 @@ title: Alire Page
 - [GitHub](https://github.com/alire-project)
 - [CI](https://alire-crates-ci.mosteo.com)
 
+### Presentation
+- [Ada Has a Package Manager](https://www.youtube.com/watch?v=cRDqcui24GQ) Presentation of Alire at FOSDEM 2020.
+
 ### Articles
 - [Alire: a Library Respository
   Manager](https://core.ac.uk/download/pdf/289998603.pdf)Alire: a
