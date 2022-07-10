@@ -79,6 +79,7 @@ Vulnerabilities
 - [SattStore WMS](https://www.consafelogistics.com/products/sattstore-wms/)
 - [Ravenports](http://www.ravenports.com)
 - [EuroControl](https://www.eurocontrol.int)
+- [Deep Blue Capital](https://www.deepbluecap.com)
 - [AdaChess](http://www.adachess.com)
 
 ## Advocacy
