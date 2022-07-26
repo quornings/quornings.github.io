@@ -8,7 +8,6 @@ title: Live
 - [comp.lang.ada](https://groups.google.com/forum/#!forum/comp.lang.ada) via Google Groups
 - [fr.comp.lang.ada](https://groups.google.com/forum/#!forum/fr.comp.lang.ada) via Google Groups
 - [Reddit r/Ada](https://www.reddit.com/r/ada/)
-- [Reddit r/SPARK](https://www.reddit.com/r/spark/)
 - [AdaCore Dev Logs](https://www.adacore.com/devlog)
 - [GNAT-OSX](https://hermes.gwu.edu/cgi-bin/wa?A0=GNAT-OSX) Mail list
 - Debian [Policy](https://people.debian.org/~lbrenta/debian-ada-policy.html) [Wiki](https://wiki.debian.org/Ada) [Mails](https://lists.debian.org/debian-ada/)
