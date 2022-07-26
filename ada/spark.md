@@ -3,7 +3,7 @@ layout: page
 title: 'SPARK'
 ---
 
-- [SPARK 2014 Reference Manual](http://docs.adacore.com/live/wave/spark2014/html/spark2014_rm/index.html)
+- [SPARK 2014 Reference Manual](https://docs.adacore.com/spark2014-docs/html/lrm/)
 - [Rosettacode](https://rosettacode.org/wiki/Category:SPRAK)
 - [Reddit r/SPARK](https://www.reddit.com/r/spark/)
 - [Building High Integrity Applications with SPARK](https://books.google.com/books?id=Yh9TCgAAQBAJ) 
