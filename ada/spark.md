@@ -6,6 +6,7 @@ title: 'SPARK'
 - [SPARK 2014 Reference Manual](https://docs.adacore.com/spark2014-docs/html/lrm/)
 - [Wikipedia](https://en.wikipedia.org/wiki/SPARK_(programming_language))
 - [Introduction to SPARK](https://learn.adacore.com/courses/intro-to-spark/index.html) Learn.AdaCore
+  - [PDF](https://learn.adacore.com/pdf_books/courses/intro-to-spark.pdf)
 - [spark-ada on SourceForge](https://stackoverflow.com/questions/tagged/spark-ada)
 - [Rosettacode](https://rosettacode.org/wiki/Category:SPARK)
 - [SPARK Proof Process](http://www.rosettacode.org/wiki/SPARK_Proof_Process)
