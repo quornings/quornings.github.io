@@ -35,6 +35,7 @@ by John W. McCormick, Peter C. Chapin
 ## Academia
 
 - [Swansea University - Critical Systems](https://cs.swan.ac.uk/~csetzer/lectures/critsys/current/SPARK_Ada/index.html)
+- [Swansea University - High Integrity Systems/Critical Systems](https://cs.swan.ac.uk/~csetzer/lectures/critsys/current/index.html)
 
 ## Organization
 
