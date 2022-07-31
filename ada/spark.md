@@ -24,7 +24,7 @@ title: 'SPARK'
 
 - [How to Write Loop invariants](https://blog.adacore.com/gnatprove-tips-and-tricks-how-to-write-loop-invariants) Yannick Moy
 - [Catching Mistakes in Contracts](https://blog.adacore.com/gnatprove-tips-and-tricks-catching-mistakes-in-contracts) Yannick Moy
-
+- [..Prove that it can Sort](https://blog.adacore.com/i-cant-believe-that-i-can-prove-that-it-can-sort) Moy
 
 ## Books
 
