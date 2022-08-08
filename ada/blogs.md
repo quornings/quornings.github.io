@@ -3,6 +3,12 @@ layout: page
 title: Blogs etc.
 ---
 
+- [inspirel](http://www.inspirel.com/articles.html)
+ * [Ada and SPARK on ARM Cortex-M](http://www.inspirel.com/articles/Ada_On_Cortex.html)
+ * [Ada-Python Demo](http://www.inspirel.com/articles/Ada_Python_Demo.html)
+ * [Ada-Python Binding](http://www.inspirel.com/articles/Ada_Python_Binding.html)
+ * [Very Simple Scheduler](http://www.inspirel.com/articles/Ada_On_Cortex_Very_Simple_Scheduler.html)
+ * [Polymorphic Callbacks For Ada/C++ Bindings]( http://www.inspirel.com/articles/Polymorphic_Callbacks_Ada_Cpp.html)
 - [Jeremy Grosser](https://synack.me)
 - [Ada Programming](https://ada-programming.blogspot.com)
 - [Riccardo Bernardini](https://dev.to/pinotattari)
@@ -72,6 +78,11 @@ Vulnerabilities
 - [Getting the right programming language for the job](http://mil-embedded.com/guest-blogs/ada-watch-getting-the-right-programming-language-for-the-job/)
 - [The programming language that refuses to die](https://www.talentinternational.com.au/blog/2018/03/ada-the-programming-language-that-refuses-to-die-dot-dot-dot)
 - [Siemens Embedded](https://blogs.sw.siemens.com/embedded-software/2011/08/01/the-ideal-programming-language/)
+
+## Companies
+
+- [inspirel](http://www.inspirel.com)
+- [AdaPilot](???)
 
 ## Products
 
