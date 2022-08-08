@@ -3,7 +3,7 @@ layout: page
 title: Blogs etc.
 ---
 
-- [inspirel](http://www.inspirel.com/articles.html)
+- [Inspirel](http://www.inspirel.com/articles.html)
  * [Ada and SPARK on ARM Cortex-M](http://www.inspirel.com/articles/Ada_On_Cortex.html)
  * [Ada-Python Demo](http://www.inspirel.com/articles/Ada_Python_Demo.html)
  * [Ada-Python Binding](http://www.inspirel.com/articles/Ada_Python_Binding.html)
@@ -81,7 +81,7 @@ Vulnerabilities
 
 ## Companies
 
-- [inspirel](http://www.inspirel.com)
+- [Inspirel](http://www.inspirel.com)
 - [AdaPilot](???)
 
 ## Products
