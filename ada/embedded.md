@@ -23,3 +23,7 @@ In Linux.com.
 - [Part 1](https://www.linux.com/audience/developers/hacking-the-linux-kernel-in-ada-part-1/) Review of a kernel module, build strategy, and Ada integration.
 - [Part 2](https://www.linux.com/audience/developers/hacking-the-linux-kernel-in-ada-part-2/) Modeling of the problem in Ada.
 - [Part 3](https://www.linux.com/audience/developers/hacking-the-linux-kernel-in-ada-part-3/) Practical Ada binding to the C kernel APIs.
+
+### Video
+
+- [Fabien Chouteau](https://www.youtube.com/c/FabienChouteau)
