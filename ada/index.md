@@ -3,6 +3,12 @@ layout: page
 title: Ada Resources
 ---
 
+# Focus
+
+- [Ada-Lang](https://ada-lang.io)
+
+# TOC
+
 - [Get Started](/ada/getstarted/)
 - [Chat](/ada/chat/)
 - [Live](/ada/live)
