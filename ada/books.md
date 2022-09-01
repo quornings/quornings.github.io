@@ -51,6 +51,10 @@ by Alan Burns, Andrew J. Wellings
 - [Ada 2012 Rationale](https://books.google.com/books?id=2de6BQAAQBAJ) by John Barnes
 - [Ada 95 Rationale](https://books.google.com/books?id=CKEcvT_MPAUC) by John Barnes
 
+## Archive
+
+- [archive.org](https://archive.org/search.php?query=%22Ada%20%28Computer%20program%20language%29%22)
+
 ## Journals
 
 - [Ada Letters](https://www.sigada.org/ada_letters/index.html)
@@ -68,3 +72,22 @@ by Alan Burns, Andrew J. Wellings
 
 - [ARG Minutes](http://www.ada-auth.org/arg-minutes.html)
 - [ARG Docs](https://sites.google.com/view/ada-rapporteur-group/home)
+
+## Program design books from Internet Archive
+
+- [High integrity software : the Spark approach to safety and security](https://archive.org/details/highintegritysof0000barn/) by Barnes, J. G. P., 2003.
+- [Ada: problem solving and program design](https://archive.org/details/adaproblemsolvin0000feld/)
+- [Good programming practice in Ada](https://archive.org/details/goodprogrammingp0000luke/)
+- [Software engineering with Ada](https://archive.org/details/softwareengineer0000booc/) by Grady Booch and Doug Bryan, 1994.
+- [System design with Ada](https://archive.org/details/systemdesignwith0000buhr/) by Buhr; R. J. A, 1987.
+- [Software design techniques for large Ada systems](https://archive.org/details/softwaredesignte0000byrn/) by Byrne, William E, 1991.
+- [Design of dependable Ada software](https://archive.org/details/designofdependab0000mote/) by Motet, G, 1996.
+- [Object-oriented design with Ada : maximizing reusability for real-time systems](https://archive.org/details/objectorientedde0000niel) by Nielsen, Kjell, 1992.
+- [Software engineering with abstractions](https://archive.org/details/softwareengineer0000berz/) by Bērzin̦š, Valdis Andris, 1991.
+- [Object-oriented reuse, concurrency, and distribution : an Ada-based approach](https://archive.org/details/objectorientedre0000atki) by Atkinson, Colin, 1991.
+- [Concurrent programming in Ada](https://archive.org/details/concurrentprogra0000burn) by Burns, Alan, 1985.
+- [Concurrency in ADA](https://archive.org/details/concurrencyinada0000burn) by Burns, Alan, 1995.
+- [Programming in ADA](https://archive.org/details/programminginada00barn/) by John Barnes, 1984.
+- [Developing safety systems : a guide using Ada](https://archive.org/details/developingsafety0000pyle) by Pyle, Ian C., 1991.
+
+
