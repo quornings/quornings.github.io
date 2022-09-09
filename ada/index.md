@@ -6,6 +6,7 @@ title: Ada Resources
 # Focus
 
 - [Ada-Lang](https://ada-lang.io)
+- [Ada-Lang on GitHub](https://github.com/ada-lang-io)
 
 # TOC
 
