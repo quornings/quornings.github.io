@@ -8,6 +8,10 @@ title: Ada Resources
 - [Ada-Lang](https://ada-lang.io)
 - [Ada-Lang on GitHub](https://github.com/ada-lang-io)
 
+- [YASS](http://www.yass.website) Yet Another Static Site (Generator)
+- [YASS on GitHub](https://github.com/yet-another-static-site-generator)
+
+
 # TOC
 
 - [Get Started](/ada/getstarted/)
