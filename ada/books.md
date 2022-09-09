@@ -9,6 +9,7 @@ title: Books
 - [AdaCore University](https://www.youtube.com/watch?v=f6wneklxryk&list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o)
 - [PeerTube](https://peertube.social/video-channels/ada_presentations/videos)
 - [Ada on iPad](https://www.youtube.com/watch?v=e_a4ctwSG6k)
+- [Fuzzing](https://www.youtube.com/watch?app=desktop&v=75EmKt_3nYs)
 
 ## Online Books
 
