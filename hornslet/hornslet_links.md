@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Hornslet URL Samling
-permalink: /hornslet_links/
 ---
 
 Her er en samling af links til ting in Hornslet. Jeg har nu selv boet
