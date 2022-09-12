@@ -4,5 +4,7 @@ title: Index
 ---
 
 - [Ada](/ada/)
-- [Stamtræ](/stamt/)
+- [Blogs](/blogs/)
 - [Honslet](/hornslet/)
+- [Stamtræ](/stamt/)
+- [Privat](/priv/)
