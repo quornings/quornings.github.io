@@ -15,3 +15,5 @@ title: Live
 - fedora [SIG Ada](https://fedoraproject.org/wiki/SIGs/Ada?rd=Ada#Ada_Special_Interest_Group)
 - gentoo linux [Project:Ada](https://wiki.gentoo.org/wiki/Project:Ada)
 - openSUSE [languages:Ada](https://build.opensuse.org/project/show/home:vibondare:devel:languages:Ada)
+
+- [comp.lang.ada NARKIVE](https://comp.lang.ada.narkive.com)
