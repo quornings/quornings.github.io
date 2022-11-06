@@ -63,6 +63,7 @@ by Alan Burns, Andrew J. Wellings
 
 ## Papers
 - [Reusable components in Ada](https://www.academia.edu/2879773/An_approach_for_constructing_reusable_software_components_in_Ada)
+- [Uses of Generics in Ada](https://digitalcommons.dartmouth.edu/cgi/viewcontent.cgi?article=1007&context=cs_tr)
 
 ## Standard
 
