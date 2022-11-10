@@ -11,9 +11,6 @@ Vulnerabilities
 - [Introduction to Ada & SPARK](https://www.cse.msu.edu/~cse814/Lectures/09_spark_intro.pdf) Michigan State University
 - [Language Introduction](https://comp.anu.edu.au/courses/comp2310/lectures/language/) Australian National University
 
-## Tutorials
-- [Lovalace Tutorial](https://dwheeler.com/lovelace/)
-
 ## Articles
 - [Learn Ada in 2021](https://opensource.com/article/21/10/learn-ada-2021)
 - [Ada 2012: The Joy of Contracts](https://www.electronicdesign.com/technologies/dev-tools/article/21796233/ada-2012-the-joy-of-contracts) Electronic Design

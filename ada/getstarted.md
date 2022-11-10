@@ -29,3 +29,6 @@ title: 'Get Started'
 ## Cheatsheets
 - [Programming-Idioms](https://programming-idioms.org/cheatsheet/Ada)
 - [Hyperpolyglot](https://hyperpolyglot.org/pascal) Somewhat Ada 83, incomplete
+
+## Tutorials
+- [Lovalace Tutorial](https://dwheeler.com/lovelace/)
