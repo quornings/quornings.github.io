@@ -3,7 +3,7 @@ layout: page
 title: 'Get Started'
 ---
 
-# Focus
+## Focus
 - [Ada-Lang](https://ada-lang.io) [GitHub](https://github.com/ada-lang-io)
 
 ## Get Started

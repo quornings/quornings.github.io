@@ -3,7 +3,7 @@ layout: page
 title: Ada Resources
 ---
 
-# TOC
+## TOC
 - [Get Started](/ada/getstarted/)
 - [Forum](/ada/chat/)
 - [Live](/ada/live)
@@ -21,7 +21,7 @@ title: Ada Resources
 - [Web](/ada/web/)
 - [Moral Support](/ada/moral/)
 
-# Standard Library
+## Standard Library
 - [Ada](/ada/man/ada/)
 - [Ada.Containers](/ada/man/ada-containers/)
 - [Ada.Numerics](/ada/man/ada-numerics/)
