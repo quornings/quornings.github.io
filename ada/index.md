@@ -12,6 +12,7 @@ title: Ada Resources
 - [FOSS](/ada/foss/)
 - [Manuals](/ada/manuals/)
 - [Books](/ada/books/)
+- [Papers](/ada/papers/)
 - [Embedded](/ada/embedded/)
 - [FOSDEM](/ada/fosdem/)
 - [Presentations](/ada/presentations/)
