@@ -3,11 +3,11 @@ layout: page
 title: Alire Page
 ---
 
-## Site
+### Site
 - [Official](https://alire.ada.dev)
-- [Crates](https://alire.ada.dev/crate)
+- [Crates](https://alire.ada.dev/crates)
 - [GitHub](https://github.com/alire-project)
-- [CI](https://alire-crates-ci.mosteo.com)
+- [CI](https://alire-crate-ci.ada.dev/)
 
 ### Presentation
 - [Ada Has a Package Manager](https://www.youtube.com/watch?v=cRDqcui24GQ) Presentation of Alire at FOSDEM 2020.
@@ -21,7 +21,7 @@ title: Alire Page
 - [Alire Exercises](https://github.com/mosteo/2022-AEiC-alire-tutorial/blob/main/alire-exercises.slides.pdf)
 
 
-## Linux
+## Availability - Linux
 
 ### Generic search
 
