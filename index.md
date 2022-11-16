@@ -8,3 +8,4 @@ title: Index
 - [Honslet](/hornslet/)
 - [Stamtræ](/stamt/)
 - [Privat](/priv/)
+- [Forsøg](/forsøg/)
