@@ -6,8 +6,16 @@ title: Hornslet URL Samling
 Her er en samling af links til ting in Hornslet. Jeg har nu selv boet
 den del år i Hornslet, men fandt en del nyt ved at lave denne side.
 
-## Det sker
+## Kalender
+
+- [Byens Hus Mørke](https://8544moerke.dk/events/)
+- [Arrangementer | Hornslet kirke](https://www.hornsletkirke.dk/kalender/arrangementer)
+- [Gudstjenester | Hornslet kirke](https://www.hornsletkirke.dk/kalender/gudstjenester)
+- [Sognegården Gudstjenester](https://sogn.dk/hornslet/kalender)
+- [Kalender – Mørke Kirke](https://mørkekirke.dk/kalender/)
+- [Biblioteket i Hornslet](https://syddjursbibliotek.dk/bibliotek/hornslet/arrangementer)
 - [På biblioteket](https://syddjursbibliotek.dk/arrangementer)
+
 - [Rosenholm Festival](https://www.rosenholm-festival.dk)
 
 ### Offentlige foredrag i Naturvidenskab
