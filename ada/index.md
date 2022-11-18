@@ -3,7 +3,11 @@ layout: page
 title: Ada Resources
 ---
 
+## tl;dr
+- [AIC](/http://www.adaic.com/)
+
 ## TOC
+
 - [Get Started](/ada/getstarted/)
 - [Forum](/ada/chat/)
 - [Live](/ada/live)
