@@ -15,11 +15,11 @@ title: Hub
 - [CLA](https://groups.google.com/g/comp.lang.ada) comp.lang.ada via Google Groups
 - [FOSDEM](/ada/fosdem/)
 - [FOSS](/ada/foss/)
-- [HUB]()
 - [GNAT](/ada/man/gnat/)
-- [GPR]()
+- [GPR](http://docs.adacore.com/live/wave/gprbuild/html/gprbuild_ug/gprbuild_ug.html) GPRbuild Users Guide
+- [HUB](/ada/hub/)
 - [SPARK](/ada/spark/)
-- [TOC](/toc/)
+- [TOC](/ada/toc/)
 
 ## others
 - [Blogs](/blogs/)

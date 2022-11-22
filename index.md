@@ -3,19 +3,11 @@ layout: page
 title: Ada Resource Hub
 ---
 
-## tl;dr
-- [AARM]()
-- [AIC](http://www.adaic.com/)
-- [ARA](http://www.adaic.org/community/)
-- [ARM]()
-- [CLA](https://groups.google.com/g/comp.lang.ada) Google Groups
-- [FOSDEM](/ada/fosdem/)
-- [FOSS](/ada/foss/)
-- [HUB]()
-- [GNAT](/ada/man/gnat/)
-- [GPR]()
-- [SPARK](/ada/spark/)
-- [TOC](/toc/)
+- [Ada](/ada/)
+- [SPARK](/spark/)
+- [Forsøg](/forsøg/)
+- [Blog](/blogs/)
+
 
 ## others
 - [Blogs](/blogs/)
