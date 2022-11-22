@@ -4,14 +4,14 @@ title: Hub
 ---
 
 ## tl;dr
-- [AARM](http://www.ada-auth.org/arm.html) Annotated Ada Reference Manual
+- [AARM](https://www.ada-auth.org/arm.html) Annotated Ada Reference Manual
 - [AIC](http://www.adaic.com/) Ada Information Clearinghouse
 - [ACAA](http://www.adaic.com/) Ada Conformity Assessment Authority
 - [ACATS](http://www.ada-auth.org/acats.html) Ada Conformity Assessment Test Suite
 - [ARA](http://www.adaic.org/community/) Ada Resource Association
 - [ARG](http://www.ada-auth.org/arg.html) Ada Rapporteur Group
 - [ARH](http://jquorning.github.io/) Ada Resource Hub
-- [ARM](http://www.ada-auth.org/arm.html) Ada Reference Manual
+- [ARM](https://www.ada-auth.org/arm.html) Ada Reference Manual
 - [CLA](https://groups.google.com/g/comp.lang.ada) comp.lang.ada via Google Groups
 - [FOSDEM](/ada/fosdem/)
 - [FOSS](/ada/foss/)

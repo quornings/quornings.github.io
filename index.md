@@ -23,6 +23,7 @@ title: Ada Resource Hub
 - [Chat](/ada/chat/)
 - [Forum](/ada/chat/)
 - [Live](/ada/live)
+- [Library](/library/)
 - [Web](/ada/web/)
 
 
