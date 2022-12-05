@@ -27,6 +27,7 @@ Dansk
 
 Samling
 ---
+- [Johnny Cash](https://www.youtube.com/watch?v=P2RMH099YtE) The Very Best Of
 - [Leonard Cohen](https://www.youtube.com/watch?v=_gMNmyaQ-1M)
 - [Cat Stevens](https://www.youtube.com/watch?v=jGqNG5Q52Mw) Greatest Hits 2021
 
