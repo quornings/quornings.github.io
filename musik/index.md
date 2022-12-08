@@ -34,3 +34,8 @@ Samling
 Kirke
 ---
 - [Helligånd tag mig ved Hånden](https://www.youtube.com/watch?v=G29AG7nq0uI)
+
+Vintertur på Strøget
+--
+[Anne Grethe](https://www.youtube.com/watch?v=JqGO09TxsCI)  
+[Kate & Anne McGarrigle](https://www.youtube.com/watch?v=IyjG0Tk3HFQ)
