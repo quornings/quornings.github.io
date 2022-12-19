@@ -1,7 +1,11 @@
 ---
 layout: page
-title: Ada Resource Hub
+title: Jespers Index
 ---
+
+The Ada resouces have moved permanently to
+
+[Ada Resource Hub](the-arh.github.io)
 
 - [Ada](/ada/)
 - [SPARK](/spark/)

@@ -3,6 +3,11 @@ layout: page
 title: Ada Resources
 ---
 
+The Ada resouces have moved permanently to
+
+[Ada Resource Hub](the-arh.github.io)
+
+
 ## tl;dr
 - [AIC](/http://www.adaic.com/)
 
