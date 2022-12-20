@@ -3,9 +3,9 @@ layout: page
 title: Jespers Index
 ---
 
-- [ARH](the-ARH.github.io) Ada Resouce Hub
-- [ACI](the-aci.github.io) Ada Co-elaboration Initiative
-- [ACE](ada-ace.github.io) Ada Advande Coding for Embedded
+- [ACI](https://the-aci.github.io/) Ada Cooporation Initiative
+- [ARH](https://the-ARH.github.io/) Ada Resouce Hub
+- [ACE](https://ada-ace.github.io/) Ada Advande Coding for Embedded
 
 Shortcuts
 ----
@@ -14,12 +14,6 @@ Shortcuts
 - [Forsøg](/forsøg/)
 - [Blog](/blogs/)
 - [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
-
-Likes
-----
-- [ACE](https://the-ace.github.io/) Ada Coelaboration on Embedded
-- [ACI](https://the-aci.github.io/) Ada Coelaboration Initiative
-- [ARH](https://the-ARH.github.io/) Ada Resouce Hub
 
 others
 ----
