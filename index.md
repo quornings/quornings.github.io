@@ -7,13 +7,22 @@ The Ada resouces have moved permanently to
 
 [Ada Resource Hub](the-arh.github.io)
 
+Shortcuts
+----
 - [Ada](/ada/)
 - [SPARK](/spark/)
 - [Forsøg](/forsøg/)
 - [Blog](/blogs/)
+- [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
 
+Likes
+----
+- [ACE](https://the-ace.github.io/) Ada Coelaboration on Embedded
+- [ACI](https://the-aci.github.io/) Ada Coelaboration Initiative
+- [ARH](https://the-ARH.github.io/) Ada Resouce Hub
 
-## others
+others
+----
 - [Blogs](/blogs/)
 - [Blogs](/ada/blogs/)
 - [Chat](/ada/chat/)
@@ -21,7 +30,6 @@ The Ada resouces have moved permanently to
 - [Live](/ada/live)
 - [Library](/library/)
 - [Web](/ada/web/)
-
 
 ## Standards
 - [Ada 2022 Language Reference Manual](http://www.ada-auth.org/standards/ada22.html)
