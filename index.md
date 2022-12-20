@@ -3,9 +3,9 @@ layout: page
 title: Jespers Index
 ---
 
-The Ada resouces have moved permanently to
+Ada Resouces Hub has moved permanently
 
-[Ada Resource Hub](the-arh.github.io)
+- [Ada Resource Hub](the-ARH.github.io)
 
 Shortcuts
 ----
