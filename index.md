@@ -3,9 +3,9 @@ layout: page
 title: Jespers Index
 ---
 
-Ada Resouces Hub has moved permanently
-
-- [Ada Resource Hub](the-ARH.github.io)
+- [ARH](the-ARH.github.io) Ada Resouce Hub
+- [ACI](the-aci.github.io) Ada Co-elaboration Initiative
+- [ACE](ada-ace.github.io) Ada Advande Coding for Embedded
 
 Shortcuts
 ----
