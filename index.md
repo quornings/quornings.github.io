@@ -6,7 +6,7 @@ title: Jespers Index
 - [ACI](https://the-aci.github.io/) Ada Cooporation Initiative
 - [ARH](https://the-ARH.github.io/) Ada Resouce Hub
 - [ACE](https://ada-ace.github.io/) Ada Advanced Coding for Embedded
-- [MIA](https://ada-MIA.github.io/) Maintainance Initiative for Ada code
+- [MIA](https://the-MIA.github.io/) Maintainance Initiative for Ada code
 
 Shortcuts
 ----
