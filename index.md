@@ -3,10 +3,16 @@ layout: page
 title: Jespers Index
 ---
 
+Ada
+----
 - [ACI](https://the-aci.github.io/) Ada Cooporation Initiative
 - [ARH](https://the-ARH.github.io/) Ada Resouce Hub
 - [ACE](https://ada-ace.github.io/) Ada Advanced Coding for Embedded
 - [MIA](https://the-MIA.github.io/) Maintainance Initiative for Ada code
+
+localhost
+----
+- [8080](localhost:8080/) Almanak
 
 Shortcuts
 ----
