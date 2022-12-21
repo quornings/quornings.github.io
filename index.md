@@ -12,7 +12,7 @@ Ada
 
 localhost
 ----
-- [localhost : 8080 /](http://localhost:8080/) Almanak
+- [localhost:8080](http://localhost:8080) Almanak
 
 Shortcuts
 ----
