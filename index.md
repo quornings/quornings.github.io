@@ -16,6 +16,12 @@ localhost
 
 People
 ----
+- [AdaCore](https://github.com/AdaCore)
+- [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
+- [Jorge Real](https://github.com/jorge-real)
+- [Alejandro R Mosteo](https://github.com/mosteo)
+- [Fabien Chouteau](https://github.com/Fabien-Chouteau)
+- [Simon J Wright](https://github.com/simonjwright)
 - [Stephane Carrez](https://gitlab.com/stcarrez)
 - [Jesper Quorning](https://github.com/jquorning)
 
