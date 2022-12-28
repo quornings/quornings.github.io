@@ -1,5 +1,6 @@
-# jquorning.github.io/ada
+jquorning.github.io
+---
 
-Ada projects and resourcs on GitHub and elsewhere.
+This is now not an Ada site anymore !
 
-[Ada on GitHub](https://jquorning.github.io/ada)
+For stargazers the site has moved to [Ada Resouce Hub](https://the-arh.github.io/)
