@@ -14,6 +14,10 @@ localhost
 ----
 - [localhost:8080](http://localhost:8080) Almanak
 
+Rosenholms
+----
+- [Rosenholms](https://rosenholms.github.io)
+
 People
 ----
 - [AdaCore](https://github.com/AdaCore)
