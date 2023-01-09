@@ -14,6 +14,11 @@ localhost
 ----
 - [localhost:8080](http://localhost:8080) Almanak
 
+KFUM
+----
+- [Hornslet](/kfum/hornslet/)
+- [Kolind](/kfum/kolind/)
+
 Rosenholms
 ----
 - [Rosenholms](https://rosenholms.github.io)
