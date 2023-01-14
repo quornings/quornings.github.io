@@ -25,6 +25,11 @@ Rosenholms
 ----
 - [Rosenholms](https://rosenholms.github.io)
 
+Diverse
+----
+- [Helte](/helte/)
+- [Fredsbevægelser](/fred/)
+
 People
 ----
 - [AdaCore](https://github.com/AdaCore)
