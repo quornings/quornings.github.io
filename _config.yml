@@ -1,0 +1,11 @@
+# Site settings
+title:       quorning
+email:
+url:         'https://quornings.github.io'
+baseurl:
+twitter_username:
+github_username:  jquorning
+
+# Build settings
+markdown: kramdown
+permalink: pretty
