@@ -74,4 +74,3 @@ Diverse
 ----
 - [Helte](/helte/)
 - [Fredsbevægelser](/fred/)
-
