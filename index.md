@@ -17,7 +17,14 @@ Da bliver livet ej så svært - døden ikke heller
 </cite>
 
 [CVR90371342](https://datacvr.virk.dk/enhed/virksomhed/37901342)  
+Koncernsprog: Dansk. Derefter svensk, tysk, fransk, spansk, russisk, engelsk (ikke us-engelse)
 
+Vision
+----
+Skabe dansk/nordisk/skandinavisk pendent til Meta, Apple, Microsoft, SpaceX, Tesla, Siemens, Volvo, Saab.
+
+Hvordan
+----
 <iframe
  width="560" height="315"
  src="https://www.youtube.com/embed/Z9NYDgbKsBE?start=0"
