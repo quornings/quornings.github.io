@@ -35,6 +35,11 @@ Hvordan
  >
 </iframe>
 
+Projekter
+----
+[asapp](https://github.com/quornings/asapp)
+[PL/Ada](https://github.com/quornings/plada)
+
 Web Goodies
 ----
 - [Ada i Danmark](/ada-i-danmark/)
@@ -45,6 +50,21 @@ YouTube Goodies
 - [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)
 - [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)
 - [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)
+
+Idoler
+----
+- [Samuel Morse](https://da.wikipedia.org/wiki/Samuel_Morse)
+- [Robert Berriedale Keith Dewar](https://en.wikipedia.org/wiki/Robert_Dewar)
+- [Jean David Ichbiah](https://en.wikipedia.org/wiki/Jean_Ichbiah)
+- [Jacob Sparre Andersen](http://www.jacob-sparre.dk)
+- [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
+- [Thomas Løcke](https://github.com/ThomasLocke)
+- [Alejandro R Mosteo](https://github.com/mosteo)
+- [Fabien Chouteau](https://github.com/Fabien-Chouteau)
+- [Simon J Wright](https://github.com/simonjwright)
+- [Stephane Carrez](https://gitlab.com/stcarrez)
+- [Jesper Quorning](https://github.com/jquorning)
+
 
 KFUM
 ----
@@ -60,16 +80,3 @@ Diverse
 - [Helte](/helte/)
 - [Fredsbevægelser](/fred/)
 
-Idoler
-----
-- [Samuel Morse](https://da.wikipedia.org/wiki/Samuel_Morse)
-- [Robert Berriedale Keith Dewar](https://en.wikipedia.org/wiki/Robert_Dewar)
-- [Jean David Ichbiah](https://en.wikipedia.org/wiki/Jean_Ichbiah)
-- [Jacob Sparre Andersen](http://www.jacob-sparre.dk)
-- [Dmitry A. Kazakov](http://www.dmitry-kazakov.de)
-- [Thomas Løcke](https://github.com/ThomasLocke)
-- [Alejandro R Mosteo](https://github.com/mosteo)
-- [Fabien Chouteau](https://github.com/Fabien-Chouteau)
-- [Simon J Wright](https://github.com/simonjwright)
-- [Stephane Carrez](https://gitlab.com/stcarrez)
-- [Jesper Quorning](https://github.com/jquorning)
