@@ -37,19 +37,9 @@ Hvordan
 
 Projekter
 ----
-[asapp](https://github.com/quornings/asapp)
-[PL/Ada](https://github.com/quornings/plada)
-
-Web Goodies
-----
-- [Ada i Danmark](/ada-i-danmark/)
-- [Hornslet Kirke](/hornslet-kirke/)
-
-YouTube Goodies
-----
-- [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)
-- [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)
-- [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)
+[asapp](https://github.com/quornings/asapp)  
+[PL/Ada](https://github.com/quornings/plada)  
+[Ada i Danmark](/ada-i-danmark/)  
 
 Idoler
 ----
@@ -65,6 +55,11 @@ Idoler
 - [Stephane Carrez](https://gitlab.com/stcarrez)
 - [Jesper Quorning](https://github.com/jquorning)
 
+YouTube Goodies
+----
+- [Liberal Alliance](https://fb.watch/hZGa_1uBLP/)
+- [Narcassist - Weiss](https://fb.watch/i4lcLQGDti/)
+- [Vand til vin - Elon Musk](https://fb.watch/i4nm-lPN19/)
 
 KFUM
 ----
