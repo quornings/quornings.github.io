@@ -1,6 +1,6 @@
 ---
 layout: page
-title: quornings
+title: quornings index
 ---
 [VisitDjursland](https://visitdjursland.dk)
 
@@ -40,6 +40,11 @@ Projekter
 [asapp](https://github.com/quornings/asapp)  
 [PL/Ada](https://github.com/quornings/plada)  
 [Ada i Danmark](/ada-i-danmark/)  
+
+Interesser
+----
+[Healthcare](/healthcare)
+[Automation](/automation/)
 
 Idoler
 ----
