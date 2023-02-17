@@ -1,6 +1,7 @@
 # Site settings
+
 title:       quornings
-email:
+email:       jesper.quorning@icloud.com
 url:         'https://quornings.github.io'
 baseurl:
 twitter_username:
